@@ -1,85 +1,87 @@
-# 💻 Développeur Full Stack
+# 🌙 *errør* - Profil GitHub
 
 <div align="center">
   
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                    ⚡ DÉVELOPPEUR FULL STACK ⚡               ║
-║                                                              ║
-║    "Passionné par la création d'expériences numériques"     ║
-╚══════════════════════════════════════════════════════════════╝
+    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+    ░░░░░░░░██████╗░██████╗░██████╗░██████╗░██████╗░░░░░░░░░░░░░░░░
+    ░░░░░░░░██╔═══╝░██╔══██╗██╔══██╗██╔═══██╗██╔══██╗░░░░░░░░░░░░░░
+    ░░░░░░░░███████╗██████╔╝██████╔╝██║░░░██║██████╔╝░░░░░░░░░░░░░░
+    ░░░░░░░░██╔═══██╗██╔══██╗██╔══██╗██║░░░██║██╔══██╗░░░░░░░░░░░░░░
+    ░░░░░░░░███████║██║░░██║██║░░██║╚██████╔╝██║░░██║░░░░░░░░░░░░░░
+    ░░░░░░░░╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚═╝░░╚═╝░░░░░░░░░░░░░░
+    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&height=100&lines=Développeur+Full+Stack;Spécialisé+Frontend+%26+Backend;Créateur+d'Applications+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=B22222&size=25&center=true&vCenter=true&width=600&lines=Développeuse+antisociale;Entre+code+et+ténèbres;Créatrice+d'expériences+digitales;Error+404:+Social+skills+not+found" />
 
 </div>
 
 ---
 
-## 🚀 **À Propos**
+## 🔮 **À propos de moi**
 
-Développeur passionné avec une expertise en développement web moderne. Je crée des applications performantes et des expériences utilisateur exceptionnelles. Toujours à la recherche de nouveaux défis techniques et d'opportunités d'apprentissage.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=errwrr&show_icons=true&theme=dark&hide_border=true&bg_color=2E2E2E&title_color=B22222&text_color=F5F5F5&icon_color=8B0000" width="380"/>
+
+Bienvenue dans mon univers digital antisocial où les erreurs deviennent art et le code devient poésie. Je suis *errør*, une développeuse qui préfère les pixels aux personnes et transforme les bugs en fonctionnalités.
+
+**🌙 Mes objectifs :**
+- Maîtriser l'art du code sombre et mystérieux
+- Créer des expériences digitales qui perturbent  
+- Explorer les limites entre erreur et perfection
+- Développer dans l'ombre, briller dans le code
+
+**⚡ Ma philosophie :** *"Error 404: Social skills not found, but code runs perfectly"*
+
+<br clear="right"/>
+
+---
+
+## 🕷️ **Arsenal Technique**
 
 <div align="center">
 
-```ascii
-    💡              🎯              💡
-       \            |            /
-        \    Innovation    /
-         \    &  Qualité   /
-          \               /
-           '-.         .-'
-              '~-----~'
-```
+### **Langages de Programmation**
+![Python](https://img.shields.io/badge/Python-2E2E2E?style=for-the-badge&logo=python&logoColor=B22222)
+![JavaScript](https://img.shields.io/badge/JavaScript-2E2E2E?style=for-the-badge&logo=javascript&logoColor=B22222)
+![TypeScript](https://img.shields.io/badge/TypeScript-2E2E2E?style=for-the-badge&logo=typescript&logoColor=B22222)
+![Java](https://img.shields.io/badge/Java-2E2E2E?style=for-the-badge&logo=java&logoColor=B22222)
+![C++](https://img.shields.io/badge/C++-2E2E2E?style=for-the-badge&logo=c%2B%2B&logoColor=B22222)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-2E2E2E?style=for-the-badge&logo=react&logoColor=B22222)
+![Vue.js](https://img.shields.io/badge/Vue.js-2E2E2E?style=for-the-badge&logo=vue.js&logoColor=B22222)
+![HTML5](https://img.shields.io/badge/HTML5-2E2E2E?style=for-the-badge&logo=html5&logoColor=B22222)
+![CSS3](https://img.shields.io/badge/CSS3-2E2E2E?style=for-the-badge&logo=css3&logoColor=B22222)
+![Sass](https://img.shields.io/badge/Sass-2E2E2E?style=for-the-badge&logo=sass&logoColor=B22222)
+
+### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-2E2E2E?style=for-the-badge&logo=node.js&logoColor=B22222)
+![Express.js](https://img.shields.io/badge/Express.js-2E2E2E?style=for-the-badge&logo=express&logoColor=B22222)
+![Django](https://img.shields.io/badge/Django-2E2E2E?style=for-the-badge&logo=django&logoColor=B22222)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E2E2E?style=for-the-badge&logo=postgresql&logoColor=B22222)
+![MongoDB](https://img.shields.io/badge/MongoDB-2E2E2E?style=for-the-badge&logo=mongodb&logoColor=B22222)
+
+### **Outils & DevOps**
+![Git](https://img.shields.io/badge/Git-2E2E2E?style=for-the-badge&logo=git&logoColor=B22222)
+![Docker](https://img.shields.io/badge/Docker-2E2E2E?style=for-the-badge&logo=docker&logoColor=B22222)
+![AWS](https://img.shields.io/badge/AWS-2E2E2E?style=for-the-badge&logo=amazon-aws&logoColor=B22222)
+![Linux](https://img.shields.io/badge/Linux-2E2E2E?style=for-the-badge&logo=linux&logoColor=B22222)
 
 </div>
 
 ---
 
-## ⚡ **Compétences Techniques**
+## 🗡️ **Projets Marquants**
 
 <div align="center">
 
-| 🔴 **Langages** | 🔴 **Niveau** | 🔴 **Expérience** |
-|:----------------|:--------------|:-------------------|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ████████████████████ 95% | ![Years](https://img.shields.io/badge/-3+_ans-8B0000?style=flat-square) |
-| ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB) | ████████████████████ 90% | ![Years](https://img.shields.io/badge/-2+_ans-8B0000?style=flat-square) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26) | ████████████████████ 95% | ![Years](https://img.shields.io/badge/-4+_ans-8B0000?style=flat-square) |
-| ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6) | ████████████████████ 90% | ![Years](https://img.shields.io/badge/-4+_ans-8B0000?style=flat-square) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6) | ██████████████████ 85% | ![Years](https://img.shields.io/badge/-2+_ans-8B0000?style=flat-square) |
-| ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4) | ████████████████ 80% | ![Years](https://img.shields.io/badge/-2+_ans-8B0000?style=flat-square) |
-
-</div>
-
----
-
-## 🛠️ **Technologies & Outils**
-
-<div align="center">
-
-### 🔥 **Frontend** 🔥
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚡ **Backend** ⚡
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ **Bases de Données** 🗄️
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🔧 **Outils & DevOps** 🔧
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| 🌙 **Projet** | 🔮 **Description** | 🕸️ **Technologies** | 🌟 **Lien** |
+|:---:|:---:|:---:|:---:|
+| **Antisocial Portfolio** | Portfolio personnel minimaliste et sombre | HTML5, CSS3, JavaScript | [Voir →](https://antisocial.site) |
+| **Error Collection** | Collection d'erreurs artistiques transformées | React, Node.js, MongoDB | [Voir →](https://github.com/errwrr/error-collection) |
+| **Dark Chat** | Application de chat antisociale | Vue.js, Socket.io, Express | [Voir →](https://github.com/errwrr/dark-chat) |
+| **Bug Tracker** | Traqueur de bugs avec esthétique gothique | Python, Flask, SQLite | [Voir →](https://github.com/errwrr/bug-tracker) |
 
 </div>
 
@@ -88,103 +90,58 @@ Développeur passionné avec une expertise en développement web moderne. Je cr�
 ## 📊 **Statistiques GitHub**
 
 <div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errwrr&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=2E2E2E&title_color=B22222&text_color=F5F5F5"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=errwrr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B0000&text_color=c9d1d9&icon_color=8B0000" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8B0000&sideLabels=c9d1d9&dates=c9d1d9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B0000&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=errwrr&theme=dark&hide_border=true&background=2E2E2E&stroke=B22222&ring=B22222&fire=B22222&currStreakLabel=F5F5F5&sideLabels=F5F5F5&dates=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5"/>
 
 </div>
 
 ---
 
-## 📈 **Activité de Développement**
+## 🦇 **Badges & Activité**
 
 <div align="center">
 
-```
-     Commits        Pull Requests      Issues Résolues
-        🔴               🔴                  🔴
-       XXX              XX                 XX
-    ░░░░░░░          ░░░░░             ░░░░░
-```
+![Profile Views](https://komarev.com/ghpvc/?username=errwrr&color=B22222&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/errwrr?color=B22222&style=flat-square&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/errwrr?color=B22222&style=flat-square&logo=github)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_USERNAME&theme=github-compact&bg_color=0d1117&color=8B0000&line=8B0000&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**🌙 Contribution Graph**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=errwrr&theme=tokyo-night&bg_color=2E2E2E&color=F5F5F5&line=B22222&point=8B0000&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 **Réalisations**
+## 🕸️ **Me Contacter**
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VOTRE_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎯 **Projets Notables**
-
-- 🚀 **Application Web E-commerce** - Stack MERN avec intégration de paiement
-- 📱 **Dashboard Analytique** - Interface React avec visualisations D3.js
-- 🌐 **API RESTful** - Backend Node.js avec authentification JWT
-- 💻 **Site Portfolio** - Interface moderne avec animations CSS
-
----
-
-## 📫 **Contact**
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════╗
-║         🔗 Restons en Contact 🔗          ║
-╚═══════════════════════════════════════════╝
+```ascii
+    ╔══════════════════════════════════════════════════════════════╗
+    ║     "Dans les erreurs du code, je trouve ma vérité"         ║
+    ║              antisocial.site - mon refuge digital           ║
+    ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Email](https://img.shields.io/badge/-Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8B0000?style=for-the-badge&logo=firefox&logoColor=white)](https://votre-portfolio.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VOTRE_USERNAME)
+[![Email](https://img.shields.io/badge/Email-2E2E2E?style=for-the-badge&logo=gmail&logoColor=B22222)](mailto:contact@antisocial.site)
+[![GitHub](https://img.shields.io/badge/GitHub-2E2E2E?style=for-the-badge&logo=github&logoColor=B22222)](https://github.com/errwrr)
+[![Portfolio](https://img.shields.io/badge/antisocial.site-2E2E2E?style=for-the-badge&logo=firefox&logoColor=B22222)](https://antisocial.site)
+[![Discord](https://img.shields.io/badge/Discord-2E2E2E?style=for-the-badge&logo=discord&logoColor=B22222)](https://discord.gg/votre-serveur)
 
-</div>
-
----
-
-## 🌟 **Objectifs Actuels**
-
-- 📚 Apprentissage continu des nouvelles technologies
-- 🤝 Collaboration sur des projets open source
-- 🎯 Amélioration des performances et de l'accessibilité web
-- 🚀 Exploration de l'IA et du machine learning
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  "La technologie au service de l'innovation et de l'excellence"  ║
-║                                                                  ║
-║                     ✨ Merci de votre visite ✨                  ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=&fontSize=16&desc=&descAlignY=51&descAlign=62" width="100%"/>
+**💬 Contactez-moi pour des projets sombres, des collaborations antisociales ou pour déboguer ensemble dans les ténèbres !**
 
 </div>
 
 ---
 
 <div align="center">
+  
+**⚰️ *"Le code ne meurt jamais, il se transforme"* ⚰️**
 
-![Visitor Count](https://profile-counter.glitch.me/VOTRE_USERNAME/count.svg)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
 
-*Ouvert aux opportunités et collaborations professionnelles*
+*Made with 🖤 and lots of ☕*
 
 </div>

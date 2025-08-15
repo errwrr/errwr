@@ -1,147 +1,135 @@
-# 🌙 *errør* - Profil GitHub
+# 
 
 <div align="center">
   
-```
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░██████╗░██████╗░██████╗░██████╗░██████╗░░░░░░░░░░░░░░░░
-    ░░░░░░░░██╔═══╝░██╔══██╗██╔══██╗██╔═══██╗██╔══██╗░░░░░░░░░░░░░░
-    ░░░░░░░░███████╗██████╔╝██████╔╝██║░░░██║██████╔╝░░░░░░░░░░░░░░
-    ░░░░░░░░██╔═══██╗██╔══██╗██╔══██╗██║░░░██║██╔══██╗░░░░░░░░░░░░░░
-    ░░░░░░░░███████║██║░░██║██║░░██║╚██████╔╝██║░░██║░░░░░░░░░░░░░░
-    ░░░░░░░░╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚═╝░░╚═╝░░░░░░░░░░░░░░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+<!-- Titre animé -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=45&duration=3000&pause=1000&color=E5E7EB&background=00000000&center=true&vCenter=true&multiline=false&width=300&height=80&lines=King+*err%C3%B8r;King+*err%C3%B8r" alt="Typing Animation" />
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=B22222&size=25&center=true&vCenter=true&width=600&lines=Développeuse+antisociale;Entre+code+et+ténèbres;Créatrice+d'expériences+digitales;Error+404:+Social+skills+not+found" />
+<!-- Séparateur gothique -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<!-- Espace pour votre GIF -->
+<div style="margin: 20px 0;">
+  <!-- <img src="VOTRE_LIEN_GIF_ICI" alt="Gothic GIF" width="300" /> -->
+  <p><em>[ Insérez votre GIF ici ]</em></p>
+</div>
+
+<!-- Séparateur -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
 ---
 
-## 🔮 **À propos de moi**
+<div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=errwrr&show_icons=true&theme=dark&hide_border=true&bg_color=2E2E2E&title_color=B22222&text_color=F5F5F5&icon_color=8B0000" width="380"/>
+## 🌙 *Dans l'ombre du code, je forge mes créations* 🌙
 
-Bienvenue dans mon univers digital antisocial où les erreurs deviennent art et le code devient poésie. Je suis *errør*, une développeuse qui préfère les pixels aux personnes et transforme les bugs en fonctionnalités.
+</div>
 
-**🌙 Mes objectifs :**
-- Maîtriser l'art du code sombre et mystérieux
-- Créer des expériences digitales qui perturbent  
-- Explorer les limites entre erreur et perfection
-- Développer dans l'ombre, briller dans le code
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
-**⚡ Ma philosophie :** *"Error 404: Social skills not found, but code runs perfectly"*
+**Autodidacte depuis plus de 4 ans**, je navigue dans l'obscurité du développement sans formation académique. Mes projets privés grandissent dans l'ombre, alimentés par une passion dévorante pour la création numérique.
+
+*L'apprentissage en solitaire a forgé mon style unique.*  
+*Chaque ligne de code est une incantation vers la perfection.*
 
 <br clear="right"/>
 
 ---
 
-## 🕷️ **Arsenal Technique**
+<div align="center">
+
+## ⚡ *Arsenal Technique* ⚡
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+</div>
 
 <div align="center">
 
-### **Langages de Programmation**
-![Python](https://img.shields.io/badge/Python-2E2E2E?style=for-the-badge&logo=python&logoColor=B22222)
-![JavaScript](https://img.shields.io/badge/JavaScript-2E2E2E?style=for-the-badge&logo=javascript&logoColor=B22222)
-![TypeScript](https://img.shields.io/badge/TypeScript-2E2E2E?style=for-the-badge&logo=typescript&logoColor=B22222)
-![Java](https://img.shields.io/badge/Java-2E2E2E?style=for-the-badge&logo=java&logoColor=B22222)
-![C++](https://img.shields.io/badge/C++-2E2E2E?style=for-the-badge&logo=c%2B%2B&logoColor=B22222)
+### Frontend & Design
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=white)
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-2E2E2E?style=for-the-badge&logo=react&logoColor=B22222)
-![Vue.js](https://img.shields.io/badge/Vue.js-2E2E2E?style=for-the-badge&logo=vue.js&logoColor=B22222)
-![HTML5](https://img.shields.io/badge/HTML5-2E2E2E?style=for-the-badge&logo=html5&logoColor=B22222)
-![CSS3](https://img.shields.io/badge/CSS3-2E2E2E?style=for-the-badge&logo=css3&logoColor=B22222)
-![Sass](https://img.shields.io/badge/Sass-2E2E2E?style=for-the-badge&logo=sass&logoColor=B22222)
+### Backend & Systems
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-1a1a1a?style=for-the-badge&logo=lua&logoColor=white)
 
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-2E2E2E?style=for-the-badge&logo=node.js&logoColor=B22222)
-![Express.js](https://img.shields.io/badge/Express.js-2E2E2E?style=for-the-badge&logo=express&logoColor=B22222)
-![Django](https://img.shields.io/badge/Django-2E2E2E?style=for-the-badge&logo=django&logoColor=B22222)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E2E2E?style=for-the-badge&logo=postgresql&logoColor=B22222)
-![MongoDB](https://img.shields.io/badge/MongoDB-2E2E2E?style=for-the-badge&logo=mongodb&logoColor=B22222)
-
-### **Outils & DevOps**
-![Git](https://img.shields.io/badge/Git-2E2E2E?style=for-the-badge&logo=git&logoColor=B22222)
-![Docker](https://img.shields.io/badge/Docker-2E2E2E?style=for-the-badge&logo=docker&logoColor=B22222)
-![AWS](https://img.shields.io/badge/AWS-2E2E2E?style=for-the-badge&logo=amazon-aws&logoColor=B22222)
-![Linux](https://img.shields.io/badge/Linux-2E2E2E?style=for-the-badge&logo=linux&logoColor=B22222)
+### *Et bien plus dans l'arsenal web...*
 
 </div>
 
 ---
 
-## 🗡️ **Projets Marquants**
-
 <div align="center">
 
-| 🌙 **Projet** | 🔮 **Description** | 🕸️ **Technologies** | 🌟 **Lien** |
-|:---:|:---:|:---:|:---:|
-| **Antisocial Portfolio** | Portfolio personnel minimaliste et sombre | HTML5, CSS3, JavaScript | [Voir →](https://antisocial.site) |
-| **Error Collection** | Collection d'erreurs artistiques transformées | React, Node.js, MongoDB | [Voir →](https://github.com/errwrr/error-collection) |
-| **Dark Chat** | Application de chat antisociale | Vue.js, Socket.io, Express | [Voir →](https://github.com/errwrr/dark-chat) |
-| **Bug Tracker** | Traqueur de bugs avec esthétique gothique | Python, Flask, SQLite | [Voir →](https://github.com/errwrr/bug-tracker) |
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
----
-
-## 📊 **Statistiques GitHub**
-
+<!-- Stats GitHub avec thème sombre -->
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errwrr&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=2E2E2E&title_color=B22222&text_color=F5F5F5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=6b7280"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=errwrr&theme=dark&hide_border=true&background=2E2E2E&stroke=B22222&ring=B22222&fire=B22222&currStreakLabel=F5F5F5&sideLabels=F5F5F5&dates=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5"/>
-
-</div>
-
----
-
-## 🦇 **Badges & Activité**
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=errwrr&color=B22222&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/errwrr?color=B22222&style=flat-square&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/errwrr?color=B22222&style=flat-square&logo=github)
-
-**🌙 Contribution Graph**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=errwrr&theme=tokyo-night&bg_color=2E2E2E&color=F5F5F5&line=B22222&point=8B0000&area=true&hide_border=true)
-
-</div>
-
----
-
-## 🕸️ **Me Contacter**
-
-<div align="center">
-
-```ascii
-    ╔══════════════════════════════════════════════════════════════╗
-    ║     "Dans les erreurs du code, je trouve ma vérité"         ║
-    ║              antisocial.site - mon refuge digital           ║
-    ╚══════════════════════════════════════════════════════════════╝
-```
-
-[![Email](https://img.shields.io/badge/Email-2E2E2E?style=for-the-badge&logo=gmail&logoColor=B22222)](mailto:contact@antisocial.site)
-[![GitHub](https://img.shields.io/badge/GitHub-2E2E2E?style=for-the-badge&logo=github&logoColor=B22222)](https://github.com/errwrr)
-[![Portfolio](https://img.shields.io/badge/antisocial.site-2E2E2E?style=for-the-badge&logo=firefox&logoColor=B22222)](https://antisocial.site)
-[![Discord](https://img.shields.io/badge/Discord-2E2E2E?style=for-the-badge&logo=discord&logoColor=B22222)](https://discord.gg/votre-serveur)
-
-**💬 Contactez-moi pour des projets sombres, des collaborations antisociales ou pour déboguer ensemble dans les ténèbres !**
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af"/>
 
 </div>
 
 ---
 
 <div align="center">
-  
-**⚰️ *"Le code ne meurt jamais, il se transforme"* ⚰️**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-*Made with 🖤 and lots of ☕*
+## 💀 *Citation Mystique* 💀
+
+> *"Dans chaque bug se cache une leçon,  
+> Dans chaque solution, une révélation."*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+---
+
+<!-- Section snake animation -->
+<div align="center">
+
+![Snake animation](https://github.com/VOTRE_USERNAME/VOTRE_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌑 *Contact* 🌑
+
+### *Si vous avez un projet, contactez-moi.*
+
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+
+[![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=white)](VOTRE_LIEN_DISCORD)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white)](VOTRE_LIEN_INSTAGRAM)
+[![Twitter](https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=white)](VOTRE_LIEN_TWITTER)
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+*"Code in darkness, create in light."*  
+**© 2024 King *errør**
 
 </div>

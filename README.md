@@ -24,23 +24,11 @@
 ---
 
 <!-- Bandeau décoratif -->
-<p align="center">
-  <span>
-    <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="28" alt="⋆"/>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:FFFFFF,100:1E1E1E&text=Dans%20l%27ombre%20du%20code,%20je%20forge%20mes%20cr%C3%A9ations&fontSize=28&fontColor=E5E7EB&fontAlign=50&fontAlignY=40&animation=fadeIn" alt="waving banner" />
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="28" alt="⋆"/>
-  </span>
-</p>
-
-
-
-
-
-
+<div align="center" style="display:flex;align-items:center;justify-content:center;gap:15px;">
+  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="28" alt="⋆" style="flex-shrink:0;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:FFFFFF,100:1E1E1E&text=Dans%20l%27ombre%20du%20code,%20je%20forge%20mes%20cr%C3%A9ations&fontSize=28&fontColor=E5E7EB&fontAlign=50&fontAlignY=40&animation=fadeIn" alt="waving banner" style="max-width:100%;"/>
+  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="28" alt="⋆" style="flex-shrink:0;"/>
+</div>
 
 <p align="center">
   <em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em><br/>

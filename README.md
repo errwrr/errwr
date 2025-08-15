@@ -13,7 +13,7 @@
 <!-- Espace pour votre GIF -->
 <div style="margin: 80px 0;">
   <img src="https://cdn.discordapp.com/attachments/1037074319538397277/1405909321333608468/Flying_angel.gif?ex=68a08a96&is=689f3916&hm=a9045930ad671baaeb2169b7e292c4f848e882474392c07125e64618a1935099&" alt="Gothic GIF" width="500" /> 
-  <p><em>ez</em></p>
+  <p><em>welcome</em></p>
 </div>
 
 <!-- Séparateur -->
@@ -23,20 +23,26 @@
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" width="25px" style="vertical-align:middle;"/> 
+  ︵‿︵‿୨♡୧‿︵‿︵ 
+  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" width="25px" style="vertical-align:middle;"/>
+</p>
 
-## 🌙 *Dans l'ombre du code, je forge mes créations* 🌙
+<p align="center">
+  <strong><i>Développeur passionné depuis +4 ans — Projets privés et apprentissage autodidacte</i></strong>  
+</p>
 
-</div>
+<p align="center">
+  <i>Entre esthétique gothique et code, je transforme les idées en projets réels.</i>
+</p>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" width="25px" style="vertical-align:middle;"/> 
+  ︵‿︵‿୨♡୧‿︵‿︵ 
+  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" width="25px" style="vertical-align:middle;"/>
+</p>
 
-**Autodidacte depuis plus de 4 ans**, je navigue dans l'obscurité du développement sans formation académique. Mes projets privés grandissent dans l'ombre, alimentés par une passion dévorante pour la création numérique.
-
-*L'apprentissage en solitaire a forgé mon style unique.*  
-*Chaque ligne de code est une incantation vers la perfection.*
-
-<br clear="right"/>
 
 ---
 

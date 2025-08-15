@@ -25,9 +25,9 @@
 
 <!-- Bandeau décoratif -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/256.gif" width="24" alt="⋆"/>
-  <span style="font-size:35px;"><strong>Dans l’ombre du code, je forge mes créations</strong></span>
-  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/256.gif" width="24" alt="⋆"/>
+  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
+  <strong><h2 style="display:inline">Dans l’ombre du code, je forge mes créations</h2></strong>
+  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
 </p>
 
 <p align="center">

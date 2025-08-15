@@ -26,15 +26,9 @@
 <!-- Bandeau décoratif -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
-  ︵‿︵‿୨♡୧‿︵‿︵
+  *Dans l’ombre du code, je forge mes créations*
   <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
 </p>
-
-<div align="center">
-
-### *Dans l’ombre du code, je forge mes créations*
-
-</div>
 
 <p align="center">
   <em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em><br/>

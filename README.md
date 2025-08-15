@@ -26,7 +26,7 @@
 <!-- Bandeau décoratif -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
-  <strong><h2 style="display:inline">Dans l’ombre du code, je forge mes créations</h2></strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&duration=3000&pause=1000&color=E5E7EB&background=00000000&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Dans+l’ombre+du+code,+je+forge+mes+créations" alt="Typing Animation" />
   <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
 </p>
 
@@ -39,6 +39,7 @@
   <em>L’apprentissage en solitaire a forgé un style propre.</em><br/>
   <em>Chaque ligne de code est une incantation vers la précision.</em>
 </p>
+
 
 ---
 

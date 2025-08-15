@@ -13,7 +13,7 @@
 <!-- Espace pour votre GIF -->
 <div style="margin: 20px 0;">
   <!-- <img src="VOTRE_LIEN_GIF_ICI" alt="Gothic GIF" width="300" /> -->
-  <p><em>[ Insérez votre GIF ici ]</em></p>
+  <p><em>[[ Insérez votre GIF ici ](https://cdn.discordapp.com/attachments/1037074319538397277/1405909321333608468/Flying_angel.gif?ex=68a08a96&is=689f3916&hm=a9045930ad671baaeb2169b7e292c4f848e882474392c07125e64618a1935099&)]</em></p>
 </div>
 
 <!-- Séparateur -->

@@ -26,9 +26,10 @@
 <!-- Bandeau décoratif -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&duration=3000&pause=1000&color=E5E7EB&background=00000000&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Dans+l’ombre+du+code,+je+forge+mes+créations" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&duration=3000&pause=1000&color=E5E7EB&background=00000000&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Dans+l%27ombre+du+code,+je+forge+mes+cr%C3%A9ations" alt="Typing Animation" />
   <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
 </p>
+
 
 <p align="center">
   <em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em><br/>

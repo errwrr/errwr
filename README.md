@@ -40,17 +40,6 @@
   <em>Chaque ligne de code est une incantation vers la précision.</em>
 </p>
 
-<!-- Bandeau décoratif -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
-  <span style="letter-spacing:2px;">୨♡୧</span>
-  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
-</p>
-
-
-
-
-
 ---
 
 <div align="center">

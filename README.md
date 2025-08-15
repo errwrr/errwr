@@ -25,9 +25,9 @@
 
 <!-- Bandeau décoratif -->
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" alt="⋆" width="24" style="vertical-align:middle;"/>
-  <span style="letter-spacing:2px;">︵‿︵‿୨♡୧‿︵‿︵</span>
-  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" alt="⋆" width="24" style="vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/assets/255.png" width="24" alt="⋆"/>
+  ︵‿︵‿୨♡୧‿︵‿︵
+  <img src="https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/assets/255.png" width="24" alt="⋆"/>
 </p>
 
 <div align="center">
@@ -48,9 +48,9 @@
 
 <!-- Bandeau décoratif -->
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" alt="⋆" width="24" style="vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/assets/255.png" width="24" alt="⋆"/>
   <span style="letter-spacing:2px;">︵‿︵‿୨♡୧‿︵‿︵</span>
-  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" alt="⋆" width="24" style="vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/assets/255.png" width="24" alt="⋆"/>
 </p>
 
 

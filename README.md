@@ -24,19 +24,20 @@
 ---
 
 <!-- Bandeau décoratif -->
-<table align="center" width="100%">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="right" width="50">
 <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="28" alt="⋆"/>
 </td>
 <td align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00000000&text=Dans%20l%27ombre%20du%20code,%20je%20forge%20mes%20cr%C3%A9ations&fontSize=28&fontColor=E5E7EB&fontAlign=50&fontAlignY=40&animation=fadeIn" alt="waving banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:FFFFFF,100:1E1E1E&text=Dans%20l%27ombre%20du%20code,%20je%20forge%20mes%20cr%C3%A9ations&fontSize=28&fontColor=E5E7EB&fontAlign=50&fontAlignY=40&animation=fadeIn" alt="waving banner" />
 </td>
 <td align="left" width="50">
 <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="28" alt="⋆"/>
 </td>
 </tr>
 </table>
+
 
 
 

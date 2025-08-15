@@ -23,25 +23,36 @@
 
 ---
 
+<!-- Bandeau décoratif -->
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" width="25px" style="vertical-align:middle;"/> 
-  ︵‿︵‿୨♡୧‿︵‿︵ 
-  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" width="25px" style="vertical-align:middle;"/>
+  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" alt="⋆" width="24" style="vertical-align:middle;"/>
+  <span style="letter-spacing:2px;">︵‿︵‿୨♡୧‿︵‿︵</span>
+  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" alt="⋆" width="24" style="vertical-align:middle;"/>
+</p>
+
+<div align="center">
+
+### *Dans l’ombre du code, je forge mes créations*
+
+</div>
+
+<p align="center">
+  <em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em><br/>
+  <em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em>
 </p>
 
 <p align="center">
-  <strong><i>Développeur passionné depuis +4 ans — Projets privés et apprentissage autodidacte</i></strong>  
+  <em>L’apprentissage en solitaire a forgé un style propre.</em><br/>
+  <em>Chaque ligne de code est une incantation vers la précision.</em>
 </p>
 
+<!-- Bandeau décoratif -->
 <p align="center">
-  <i>Entre esthétique gothique et code, je transforme les idées en projets réels.</i>
+  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" alt="⋆" width="24" style="vertical-align:middle;"/>
+  <span style="letter-spacing:2px;">︵‿︵‿୨♡୧‿︵‿︵</span>
+  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" alt="⋆" width="24" style="vertical-align:middle;"/>
 </p>
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" width="25px" style="vertical-align:middle;"/> 
-  ︵‿︵‿୨♡୧‿︵‿︵ 
-  <img src="https://cdn.discordapp.com/attachments/900136659113377833/1405911244065476619/1100078322165223444.png" width="25px" style="vertical-align:middle;"/>
-</p>
 
 
 ---

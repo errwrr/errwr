@@ -25,9 +25,9 @@
 
 <!-- Bandeau décoratif -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/assets/255.png" width="24" alt="⋆"/>
+  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
   ︵‿︵‿୨♡୧‿︵‿︵
-  <img src="https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/assets/255.png" width="24" alt="⋆"/>
+  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
 </p>
 
 <div align="center">
@@ -48,10 +48,11 @@
 
 <!-- Bandeau décoratif -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/assets/255.png" width="24" alt="⋆"/>
+  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
   <span style="letter-spacing:2px;">︵‿︵‿୨♡୧‿︵‿︵</span>
-  <img src="https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/assets/255.png" width="24" alt="⋆"/>
+  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
 </p>
+
 
 
 

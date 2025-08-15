@@ -26,7 +26,7 @@
 <!-- Bandeau décoratif -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&duration=3000&pause=1000&color=E5E7EB&background=00000000&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Dans+l%27ombre+du+code,+je+forge+mes+cr%C3%A9ations" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFFFFF,100:2B2B2B&text=Dans%20l%27ombre%20du%20code,%20je%20forge%20mes%20cr%C3%A9ations&fontSize=26&fontColor=E5E7EB&fontAlign=50&fontAlignY=40&animation=fadeIn" alt="waving banner" />
   <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
 </p>
 

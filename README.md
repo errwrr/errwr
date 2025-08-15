@@ -26,7 +26,7 @@
 <!-- Bandeau décoratif -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
-  *Dans l’ombre du code, je forge mes créations*
+Dans l’ombre du code, je forge mes créations*
   <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="24" alt="⋆"/>
 </p>
 

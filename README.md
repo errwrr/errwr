@@ -108,77 +108,84 @@
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); padding: 25px; border-radius: 15px; margin: 30px 0; border: 2px solid #ff6b6b;">
 
-### 🎮 **Gaming & Serveurs** | 🌐 **Web & Apps** | 🤖 **Bots & Automation** | 📱 **Mobile & Desktop**
+### **Gaming & Serveurs** | **Web & Applications** | **Bots & Automation** | **Mobile & Desktop**
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; margin: 30px 0;">
 
-<div style="text-align: left;">
+<div style="text-align: left; padding: 20px; background: rgba(255, 255, 255, 0.02); border-radius: 8px; border-left: 4px solid #ff6b6b;">
 
-**🎮 GAMING**
-- Serveurs Minecraft (plugins customs)
-- Serveurs FiveM (scripts, MLO)
-- Bots Discord avancés
-- Systèmes de rang/économie
-- Anti-cheat personnalisés
-- Interfaces de gestion
-
-</div>
-
-<div style="text-align: left;">
-
-**🌐 WEB & E-COMMERCE**
-- Sites web responsive
-- Boutiques en ligne
-- Plateformes d'apprentissage
-- Réseaux sociaux
-- Forums communautaires
-- CMS sur mesure
+**GAMING & SERVEURS**
+- Serveurs Minecraft (plugins customs, configurations avancées)
+- Serveurs FiveM (scripts Lua, MLO, systèmes économiques)
+- Bots Discord multifonctionnels avec base de données
+- Systèmes de rangs, économie et récompenses
+- Solutions anti-cheat et sécurité serveurs
+- Panels d'administration et interfaces de gestion
+- Intégrations API Steam, Minecraft, Discord
 
 </div>
 
-<div style="text-align: left;">
+<div style="text-align: left; padding: 20px; background: rgba(255, 255, 255, 0.02); border-radius: 8px; border-left: 4px solid #4CAF50;">
 
-**🤖 AUTOMATISATION**
-- Bots Discord/Telegram
-- Scripts d'automatisation
-- Web scraping
-- APIs personnalisées
-- Systèmes de notifications
-- Intégrations tierces
-
-</div>
-
-<div style="text-align: left;">
-
-**📱 APPLICATIONS**
-- Apps mobiles (iOS/Android)
-- Logiciels desktop
-- Extensions navigateur
-- Applications web
-- PWA (Progressive Web Apps)
-- Solutions cross-platform
+**WEB & E-COMMERCE**
+- Sites web professionnels et responsive design
+- Plateformes e-commerce avec systèmes de paiement
+- Applications web complexes (SaaS, dashboards)
+- Réseaux sociaux et plateformes communautaires
+- Forums sur mesure avec systèmes de modération
+- CMS personnalisés et systèmes de gestion de contenu
+- Optimisation SEO et performances web
 
 </div>
 
+<div style="text-align: left; padding: 20px; background: rgba(255, 255, 255, 0.02); border-radius: 8px; border-left: 4px solid #2196F3;">
+
+**AUTOMATION & BOTS**
+- Bots Discord/Telegram avec fonctionnalités avancées
+- Scripts d'automatisation de tâches répétitives
+- Web scraping et extraction de données
+- APIs REST/GraphQL personnalisées
+- Systèmes de notifications multi-plateformes
+- Intégrations avec services tiers (Stripe, PayPal, etc.)
+- Pipelines de données et traitement automatisé
+
 </div>
 
-### 🔥 **Exemples Concrets de Réalisations Possibles**
+<div style="text-align: left; padding: 20px; background: rgba(255, 255, 255, 0.02); border-radius: 8px; border-left: 4px solid #FF9800;">
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 20px 0; gap: 15px;">
-
-`🎯 Bot de modération Discord` `🏪 Site e-commerce complet` `⚔️ Plugin Minecraft RPG` `📊 Dashboard analytics`
-
-`🚗 Script FiveM garage` `📱 App de livraison` `🤖 Chatbot IA` `🎮 Launcher de jeu custom`
-
-`💰 Système de crypto-trading` `📋 CRM sur mesure` `🎵 Plateforme streaming` `🔐 Système d'auth avancé`
+**APPLICATIONS & LOGICIELS**
+- Applications mobiles natives (iOS/Android)
+- Logiciels desktop multi-plateformes
+- Extensions navigateur (Chrome, Firefox)
+- Progressive Web Apps (PWA)
+- Applications Electron pour desktop
+- Solutions cross-platform avec React Native/Flutter
+- Intégration avec APIs natives et services cloud
 
 </div>
 
-<div style="text-align: center; margin: 20px 0; padding: 15px; background: rgba(255, 107, 107, 0.1); border-radius: 10px;">
+</div>
 
-### 💡 **Votre Projet Unique ?**
-**Décrivez-moi votre idée, aussi folle soit-elle !**  
-*Je trouve toujours une solution technique pour la concrétiser*
+### **Portfolio de Réalisations Techniques**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 30px 0;">
+
+`Bot modération Discord avancé` `Plateforme e-commerce complète` `Plugin Minecraft RPG custom` `Dashboard analytics temps réel`
+
+`Scripts FiveM économie serveur` `Application mobile géolocalisation` `Chatbot IA conversationnel` `Launcher jeu personnalisé`
+
+`Trading bot crypto-monnaies` `CRM entreprise sur mesure` `Plateforme streaming vidéo` `Système authentification 2FA`
+
+</div>
+
+<div style="text-align: center; margin: 30px 0; padding: 25px; background: linear-gradient(135deg, rgba(255, 107, 107, 0.1) 0%, rgba(255, 107, 107, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(255, 107, 107, 0.2);">
+
+### **Votre Projet Sur Mesure**
+
+**Vous avez une idée de projet technique ? Parlons-en !**  
+*Analyse gratuite de faisabilité et estimation personnalisée*
+
+**De la conception au déploiement, je m'occupe de tout**
 
 </div>
 

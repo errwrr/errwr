@@ -43,8 +43,6 @@
 
 ---
 
----
-
 <div align="center">
 
 ## ⚡ *Arsenal Technique* ⚡
@@ -101,78 +99,9 @@
 
 <div align="center">
 
-## 📊 *Statistiques GitHub* 📊
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-<div align="center">
-  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=errwrr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b&border_color=30363d&hide_border=false"/>
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errwrr&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&border_color=30363d&hide_border=false"/>
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=errwrr&theme=radical&background=0d1117&border=30363d&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b6b&sideLabels=ffffff&dates=9ca3af)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 *Trophées GitHub* 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=errwrr&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
 ## 📈 *Graphique d'Activité* 📈
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=errwrr&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-## 💀 *Citation Mystique* 💀
-
-> *"Dans chaque bug se cache une leçon,  
-> Dans chaque solution, une révélation."*
-> 
-> *— King *errør*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 *Projets Récents* 🌟
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errwrr&repo=REPO_NAME_1&theme=radical&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b&border_color=30363d)](https://github.com/errwrr/REPO_NAME_1)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errwrr&repo=REPO_NAME_2&theme=radical&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b&border_color=30363d)](https://github.com/errwrr/REPO_NAME_2)
-
-</div>
-
-*Remplacez REPO_NAME_1 et REPO_NAME_2 par les noms de vos repositories*
 
 </div>
 

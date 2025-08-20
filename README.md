@@ -25,21 +25,34 @@
 
 <!-- Bandeau décoratif -->
 <div align="center">
-  <div style="
-    display:inline-block;
-    padding:12px 24px;
-    border-radius:999px;
-    background:linear-gradient(90deg,#ff3b3b,#8b0000);
-    color:#fff;
-    font-weight:700;
-    font-size:22px;
-    letter-spacing:.2px;
-    box-shadow:0 6px 18px rgba(139,0,0,.35), inset 0 1px 0 rgba(255,255,255,.1);
-    border:1px solid rgba(255,255,255,.06);
-  ">
-    L’exigence du résultat
-  </div>
+  <svg width="720" height="96" viewBox="0 0 720 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="L’exigence du résultat">
+    <defs>
+      <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#FF3B3B"/>
+        <stop offset="100%" stop-color="#8B0000"/>
+      </linearGradient>
+      <filter id="shadow" x="-20%" y="-50%" width="140%" height="200%">
+        <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#8B0000" flood-opacity=".35"/>
+      </filter>
+    </defs>
+
+    <!-- Ruban principal -->
+    <g filter="url(#shadow)">
+      <path d="M20 20 H700 v36 c-80 16 -160 16 -240 0 H260 c-80 16 -160 16 -240 0 V20 Z" fill="url(#g)" rx="14" />
+      <!-- Petites pointes -->
+      <polygon points="20,20 36,28 36,48 20,56" fill="#5c0000" opacity=".45"/>
+      <polygon points="700,20 684,28 684,48 700,56" fill="#5c0000" opacity=".45"/>
+    </g>
+
+    <!-- Texte -->
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          fill="#FFFFFF" font-size="24" font-weight="700" style="paint-order:stroke; stroke:#000; stroke-width:1; stroke-opacity:.2;">
+      L’exigence du résultat
+    </text>
+  </svg>
 </div>
+
+
 
 
 <p align="center">

@@ -43,27 +43,57 @@
 
 ---
 
+---
+
 <div align="center">
 
 ## ⚡ *Arsenal Technique* ⚡
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
+### 🎨 Frontend & Design
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=1a1a1a)
+
 </div>
 
-<div align="center">
+### ⚙️ Backend & Systems
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
 
-### Frontend & Design
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=1a1a1a)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a)
 
-### Backend & Systems
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-1a1a1a?style=for-the-badge&logo=lua&logoColor=white)
+</div>
 
-### *Et bien plus dans l'arsenal web...*
+### 🗄️ Bases de Données & Cloud
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1a1a)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a1a)
+
+</div>
+
+### 🛠️ Outils & Environnement
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a1a)
+
+</div>
 
 </div>
 
@@ -71,16 +101,43 @@
 
 <div align="center">
 
+## 📊 *Statistiques GitHub* 📊
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
-<!-- Stats GitHub avec thème sombre -->
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=errwrr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=6b7280"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=errwrr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b&border_color=30363d&hide_border=false"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errwr&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errwrr&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&border_color=30363d&hide_border=false"/>
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=errwrr&theme=radical&background=0d1117&border=30363d&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b6b&sideLabels=ffffff&dates=9ca3af)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 *Trophées GitHub* 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=errwrr&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 *Graphique d'Activité* 📈
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=errwrr&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -94,8 +151,28 @@
 
 > *"Dans chaque bug se cache une leçon,  
 > Dans chaque solution, une révélation."*
+> 
+> *— King *errør*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 *Projets Récents* 🌟
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errwrr&repo=REPO_NAME_1&theme=radical&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b&border_color=30363d)](https://github.com/errwrr/REPO_NAME_1)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errwrr&repo=REPO_NAME_2&theme=radical&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b&border_color=30363d)](https://github.com/errwrr/REPO_NAME_2)
+
+</div>
+
+*Remplacez REPO_NAME_1 et REPO_NAME_2 par les noms de vos repositories*
 
 </div>
 
@@ -104,7 +181,9 @@
 <!-- Section snake animation -->
 <div align="center">
 
-![Snake animation](https://github.com/VOTRE_USERNAME/VOTRE_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/errwrr/errwrr/output/github-contribution-grid-snake-dark.svg)
+
+*Si l'animation ne s'affiche pas, suivez [ce guide](https://github.com/Platane/snk) pour la configurer*
 
 </div>
 
@@ -112,17 +191,24 @@
 
 <div align="center">
 
-## 🌑 *Contact* 🌑
+## 🌑 *Contact & Réseaux* 🌑
 
-### *Si vous avez un projet, contactez-moi.*
+### *Collaborons ensemble sur vos projets les plus ambitieux*
 
-<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+<div style="display: flex; justify-content: center; gap: 15px; margin: 30px 0; flex-wrap: wrap;">
 
-[![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=white)](VOTRE_LIEN_DISCORD)
-[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white)](VOTRE_LIEN_INSTAGRAM)
-[![Twitter](https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=white)](VOTRE_LIEN_TWITTER)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a)](VOTRE_LIEN_DISCORD)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a)](VOTRE_LIEN_INSTAGRAM)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a)](VOTRE_LIEN_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](VOTRE_LIEN_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:votre.email@example.com)
 
 </div>
+
+### 📫 *Ouvert aux opportunités*
+- 💼 Freelance & Projets sur mesure
+- 🤝 Collaborations créatives
+- 🎓 Mentorat technique
 
 </div>
 
@@ -132,7 +218,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+<!-- Compteur de visiteurs -->
+<div style="margin: 20px 0;">
+
+![Visitor Count](https://profile-counter.glitch.me/errwrr/count.svg)
+
+</div>
+
 *"Code in darkness, create in light."*  
-**© 2024 King *errør**
+**© 2024 King *errør***
+
+<sub>⭐ *N'hésitez pas à mettre une étoile si ce profil vous plaît !*</sub>
 
 </div>

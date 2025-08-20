@@ -25,10 +25,8 @@
 
 <!-- Bandeau décoratif -->
 <div align="center" style="display:flex;align-items:center;justify-content:center;gap:15px;">
-  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="28" alt="⋆" style="flex-shrink:0;"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF0000,8B0000&text=L’exigence%20du%20résultat&fontSize=28&fontColor=E5E7EB&fontAlign=50&fontAlignY=40&animation=fadeIn" 
        alt="waving banner" style="max-width:600px; width:600px;"/>
-  <img src="https://raw.githubusercontent.com/errwrr/errwrr/main/assets/255.png" width="28" alt="⋆" style="flex-shrink:0;"/>
 </div>
 
 <p align="center">

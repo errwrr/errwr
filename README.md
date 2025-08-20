@@ -107,17 +107,6 @@
 
 ---
 
-<!-- Section snake animation -->
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/errwrr/errwrr/output/github-contribution-grid-snake-dark.svg)
-
-*Si l'animation ne s'affiche pas, suivez [ce guide](https://github.com/Platane/snk) pour la configurer*
-
-</div>
-
----
-
 <div align="center">
 
 ## 🌑 *Contact & Réseaux* 🌑
@@ -147,15 +136,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<!-- Compteur de visiteurs -->
-<div style="margin: 20px 0;">
-
-![Visitor Count](https://profile-counter.glitch.me/errwrr/count.svg)
-
-</div>
 
 *"Code in darkness, create in light."*  
-**© 2024 King *errør***
+**© 2025 King *errør***
 
 <sub>⭐ *N'hésitez pas à mettre une étoile si ce profil vous plaît !*</sub>
 

@@ -109,7 +109,7 @@
 
 <div align="center">
 
-## 🌑 *Contact & Réseaux* 🌑
+##  *Contact & Réseaux* 
 
 ### *Collaborons ensemble sur vos projets les plus ambitieux*
 
@@ -123,10 +123,10 @@
 
 </div>
 
-### 📫 *Ouvert aux opportunités*
-- 💼 Freelance & Projets sur mesure
-- 🤝 Collaborations créatives
-- 🎓 Mentorat technique
+###  *Ouvert aux opportunités*
+-  Freelance & Projets sur mesure
+-  Collaborations créatives
+-  Mentorat technique
 
 </div>
 
@@ -139,6 +139,6 @@
 *"Code in darkness, create in light."*  
 **© 2025 King *errør***
 
-<sub>⭐ *N'hésitez pas à mettre une étoile si ce profil vous plaît !*</sub>
+<sub> *N'hésitez pas à mettre une étoile si ce profil vous plaît !*</sub>
 
 </div>

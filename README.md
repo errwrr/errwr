@@ -1,105 +1,83 @@
-# 👋 Salut, je suis errwrr !
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm errwr
 
-[![GitHub followers](https://img.shields.io/github/followers/errwrr?style=social)](https://github.com/errwrr)
-[![GitHub stars](https://img.shields.io/github/stars/errwrr?style=social)](https://github.com/errwrr)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;System+Programming+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
-## 🚀 À propos de moi
+## 🔥 About Me
 
-Développeur full-stack passionné par la création d'applications innovantes et performantes. J'aime explorer de nouvelles technologies et résoudre des défis techniques complexes.
+```javascript
+const errwr = {
+    location: "France",
+    code: ["JavaScript", "C++", "Lua"],
+    specialization: ["Frontend", "Backend", "System Programming"],
+    currentFocus: "Building scalable applications",
+    funFact: "I debug in my sleep 💤"
+};
+```
 
-- 🔭 Actuellement en train de travailler sur des projets web modernes
-- 🌱 Toujours en apprentissage de nouvelles technologies
-- 💡 Passionné par l'optimisation et l'architecture logicielle
-- 📫 Comment me contacter : [Votre email]
+## ⚡ Tech Stack
 
-## 🛠️ Stack Technique
+<div align="center">
 
-### 💻 Langages de Programmation
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+### 🚀 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Lua](https://img.shields.io/badge/-Lua-000000?style=for-the-badge&logo=lua&logoColor=2C2D72)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-FF3333?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-FF3333?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-FF3333?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-FF3333?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791)
 
-### 🗄️ Bases de Données
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### 🛠 Tools & Environment
+![Git](https://img.shields.io/badge/-Git-FF3333?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-FF3333?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-FF3333?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FF3333?style=for-the-badge&logo=linux&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-### 🔧 Outils & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=errwrr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errwrr&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-## 🔥 Streak GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=errwrr&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=errwr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=errwr&theme=radical&hide_border=true&background=0d1117&stroke=ff3333&ring=ff3333&fire=ff3333&currStreakLabel=ffffff" alt="GitHub Streak" />
 </div>
 
-## 🏆 Mes Projets Favoris
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errwr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3333&text_color=ffffff" alt="Top Languages" />
+</div>
 
-- 🌟 **[Nom du Projet 1]** - Description courte du projet avec les technologies utilisées
-- 🚀 **[Nom du Projet 2]** - Application web full-stack avec React et Node.js
-- 💡 **[Nom du Projet 3]** - Script d'automatisation en Python
-- 🎮 **[Nom du Projet 4]** - Extension/mod développé en Lua
+## 🎯 Current Projects
 
-## 🎯 Objectifs 2024
+- 🔴 **System Optimization Tools** - C++ performance utilities
+- 🔴 **Web Applications** - Full-stack JavaScript solutions  
+- 🔴 **Game Scripts** - Lua automation and enhancement tools
+- 🔴 **Open Source Contributions** - Contributing to the developer community
 
-- [ ] Contribuer à plus de projets open source
-- [ ] Apprendre Rust et Go
-- [ ] Développer une application mobile avec React Native
-- [ ] Obtenir une certification cloud
-- [ ] Participer à des hackathons
+## 🌐 Let's Connect
 
-## 📈 Activité de Développement
+<div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/errwr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF3333?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF3333)](#)
 
-## 🤝 Connectons-nous !
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/votre-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://votre-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:votre-email@exemple.com)
+</div>
 
 ---
 
 <div align="center">
-  <i>💡 "Le code est de la poésie que les machines peuvent lire"</i>
+  <img src="https://komarev.com/ghpvc/?username=errwr&color=ff3333&style=flat-square" alt="Profile views" />
   
-  ![Visitor Count](https://profile-counter.glitch.me/errwrr/count.svg)
+  **"Code is poetry written in logic"** ✨
 </div>

@@ -78,9 +78,9 @@
 <!-- Stats GitHub avec thème sombre -->
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=6b7280"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=errwrr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af&icon_color=6b7280"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errwr&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=e5e7eb&text_color=9ca3af"/>
 
 </div>
 

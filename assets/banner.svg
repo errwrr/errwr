@@ -1,76 +1,62 @@
 <svg width="720" height="96" viewBox="0 0 720 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="L’exigence du résultat">
   <defs>
-    <!-- Dégradé rouge -->
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#B80F0F"/>
       <stop offset="50%" stop-color="#E21E1E"/>
       <stop offset="100%" stop-color="#7A0000"/>
     </linearGradient>
 
-    <!-- Glow blanc (néon) -->
     <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
 
-    <!-- Masque : bande qui balaye puis dévoile tout -->
-    <mask id="revealMask">
-      <!-- Bandeau de révélation qui balaie de gauche à droite -->
-      <rect x="-340" y="-18" width="120" height="36" fill="#fff">
-        <animate attributeName="x" from="-340" to="340" dur="1.2s" fill="freeze"/>
+    <!-- Balayage pour le doublon animé -->
+    <clipPath id="sweep">
+      <rect x="-240" y="0" width="240" height="96">
+        <animate attributeName="x" values="-240;720" begin="2s; loop.end+2s" dur="1.5s"/>
       </rect>
-      <!-- Après le balayage, on révèle tout le texte -->
-      <rect x="-340" y="-18" width="680" height="36" fill="#fff" opacity="0">
-        <animate attributeName="opacity" begin="1.2s" dur="0.01s" to="1" fill="freeze"/>
-      </rect>
-    </mask>
+    </clipPath>
   </defs>
 
-  <!-- Ruban -->
+  <!-- Bande -->
   <rect x="20" y="20" width="680" height="40" rx="14" fill="url(#g)"/>
-
-  <!-- Contour de base discret -->
-  <rect x="20" y="20" width="680" height="40" rx="14"
-        fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
-
-  <!-- Contour animé néon qui fait le tour -->
-  <rect x="20" y="20" width="680" height="40" rx="14"
-        fill="none" stroke="#FFFFFF" stroke-width="2.2"
-        stroke-linecap="round" pathLength="1000"
-        stroke-dasharray="120 880" filter="url(#neon)">
+  <rect x="20" y="20" width="680" height="40" rx="14" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.5"/>
+  <rect x="20" y="20" width="680" height="40" rx="14" fill="none" stroke="#FFFFFF" stroke-width="2.2"
+        stroke-linecap="round" pathLength="1000" stroke-dasharray="120 880" filter="url(#neon)">
     <animate attributeName="stroke-dashoffset" values="0;-1000" dur="6s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Groupe centré pour le texte -->
+  <!-- Texte statique TOUJOURS visible et centré (fallback GitHub) -->
+  <text x="360" y="40" dy=".35em" text-anchor="middle"
+        fill="#FFFFFF" font-size="24" font-weight="700"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif"
+        style="paint-order:stroke; stroke:#000; stroke-width:1; stroke-opacity:.18;">
+    L’exigence du résultat
+  </text>
+
+  <!-- Doublon ANIMÉ par-dessus (entrée gauche + pause + sortie + reset en boucle) -->
   <g transform="translate(360,48)">
-    <!-- TEXTE avec masque (bandeau), entrée depuis la gauche -->
-    <text x="0" y="-4" text-anchor="middle" dominant-baseline="middle"
+    <text x="0" y="-4" text-anchor="middle"
           fill="#FFFFFF" font-size="24" font-weight="700"
-          style="paint-order:stroke; stroke:#000; stroke-width:1; stroke-opacity:.18;"
-          mask="url(#revealMask)">
+          font-family="Segoe UI, Arial, Helvetica, sans-serif"
+          style="opacity:.9;">
       L’exigence du résultat
-
-      <!-- 1) Entrée : revient par la gauche, léger overshoot, puis centre -->
-      <animateTransform id="slide" attributeName="transform" type="translate"
-                        values="-380 0; 12 0; 0 0"
-                        keyTimes="0;0.8;1"
-                        dur="0.9s" begin="1.2s"
+      <!-- boucle : entrée -> pause -> sortie -> reset -->
+      <animateTransform id="loop" attributeName="transform" type="translate"
+                        values="-380 0; 0 0; 0 0; 380 0; -380 0"
+                        keyTimes="0;0.2;0.7;0.9;1"
+                        dur="15s" repeatCount="indefinite"
                         calcMode="spline"
-                        keySplines="0.2 0.8 0.2 1; 0.2 0.8 0.2 1"
-                        fill="freeze"/>
+                        keySplines="0.2 0.8 0.2 1; 0.2 0.8 0.2 1; 0.2 0.8 0.2 1; 0.2 0.8 0.2 1"/>
+    </text>
 
-      <!-- 2) Respiration subtile (zoom in/out) -->
-      <animateTransform attributeName="transform" type="scale"
-                        values="1 1; 1.008 1.008; 1 1"
-                        dur="7s" begin="slide.end+0.2s"
-                        repeatCount="indefinite" additive="sum"/>
-
-      <!-- 3) Micro fade (opacité) -->
-      <animate attributeName="opacity" values="1;0.96;1"
-               dur="6s" begin="slide.end+0.2s" repeatCount="indefinite"/>
+    <!-- highlight de balayage uniquement sur le doublon -->
+    <text x="0" y="-4" text-anchor="middle"
+          fill="#FFFFFF" font-size="24" font-weight="700"
+          font-family="Segoe UI, Arial, Helvetica, sans-serif"
+          clip-path="url(#sweep)" style="opacity:.75;">
+      L’exigence du résultat
     </text>
   </g>
 </svg>

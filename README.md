@@ -20,7 +20,7 @@
 
 <br/>
 
-### 🛠️ **Technologies Maîtrisées - Stack Complète**
+### **Technologies Maîtrisées - Stack Complète**
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 20px 0;">
 

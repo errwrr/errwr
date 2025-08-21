@@ -34,6 +34,8 @@
 
 
 ---
+<div align="center">
+
 <p align="center"><img src="assets/title_typing.svg" width="760" alt="Développeur full stack"></p>
 
 

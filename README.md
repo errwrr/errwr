@@ -70,22 +70,22 @@
 ## 💼 Services Professionnels
 
 ### Gaming & Communautés
-- **Minecraft**: Plugins ou serveur sur mesure.
-- **FiveM**: Scripts ou serveur sur mesure.
-- **Discord**: Bots personnalisé.
-- **Infrastructure**: Hébergement, sécurisation serveurs
+ **Minecraft**: Plugins ou serveur sur mesure.
+ **FiveM**: Scripts ou serveur sur mesure.
+ **Discord**: Bots personnalisé.
+ **Infrastructure**: Hébergement, sécurisation serveurs
 
 ### Applications Métier
-- **Web**: Sites vitrine, e-commerce, plateformes SaaS
-- **Mobile**: Applications iOS/Android natives
-- **Desktop**: Logiciels Windows/Mac/Linux
-- **Dashboards**: Interfaces d'administration et analytics
+ **Web**: Sites vitrine, e-commerce, plateformes SaaS
+ **Mobile**: Applications iOS/Android natives
+ **Desktop**: Logiciels Windows/Mac/Linux
+ **Dashboards**: Interfaces d'administration et analytics
 
 ### Intégrations & APIs
-- **Paiements**: Stripe, PayPal, systèmes bancaires
-- **Services**: APIs REST/GraphQL personnalisées
-- **Automatisation**: Workflows, notifications
-- **Données**: Collecte légale et traitement RGPD
+ **Paiements**: Stripe, PayPal, systèmes bancaires
+ **Services**: APIs REST/GraphQL personnalisées
+ **Automatisation**: Workflows, notifications
+ **Données**: Collecte légale et traitement RGPD
 
 ## 📋 Processus de Travail
 

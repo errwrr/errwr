@@ -2,25 +2,23 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
   <tr>
-    <!-- Colonne gauche : banner + bio -->
+    <!-- Gauche : banner + bio -->
     <td width="58%" valign="top" align="left">
       <img src="assets/banner.svg" alt="L’exigence du résultat" width="520" height="70" />
-
       <br/><br/>
       <p><em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em></p>
       <p><em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em></p>
       <p><em>L’apprentissage en solitaire a forgé un style propre.</em></p>
       <p><em>Chaque ligne de code est une incantation vers la précision.</em></p>
     </td>
-
-    <!-- Colonne droite : terminal centré verticalement -->
+    <!-- Droite : terminal, centré verticalement -->
     <td width="42%" valign="middle" align="center">
       <img src="assets/terminal.svg" alt="King *error Terminal" width="480" height="320" />
     </td>
   </tr>
 </table>
 
-<!-- ===== (ligne vide) ===== -->
+<br/>
 
 
 

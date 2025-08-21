@@ -36,9 +36,14 @@
 ---
 
 <div align="center">
+  <h2 style="margin:0;">
+    <img src="assets/emote/crown-left.png" height="22" alt="emoji" style="vertical-align:middle; margin-right:6px;" />
+    <strong>Développeur Full-Stack Polyvalent</strong>
+    <img src="assets/emote/crown-right.png" height="22" alt="emoji" style="vertical-align:middle; margin-left:6px;" />
+  </h2>
+</div>
 
-## 💼 **Développeur Full-Stack Polyvalent** 💼
-
+<div align="center">
 
 *De l'idée à la réalisation : **TOUT est possible** !*
 

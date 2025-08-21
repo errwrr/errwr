@@ -9,22 +9,38 @@
 
 ---
 
-<!-- Bandeau décoratif -->
+<!-- Bandeau décoratif rétréci -->
 <p align="center">
-  <img src="assets/banner.svg" alt="L’exigence du résultat" width="720" height="96">
+  <img src="assets/banner.svg" alt="L'exigence du résultat" width="560" height="75">
 </p>
 
+<!-- Section Bio + Terminal en deux colonnes -->
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin: 40px 0; gap: 30px;">
 
-<p align="center">
-  <em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em><br/>
-  <em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em>
-</p>
+<!-- Bio à gauche -->
+<div style="flex: 1; text-align: left; padding: 20px;">
+  <h3 style="color: #ff6b6b; margin-bottom: 20px;">💻 Développeur Autodidacte</h3>
+  
+  <p><em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em></p>
+  
+  <p><em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em></p>
+  
+  <p><em>L'apprentissage en solitaire a forgé un style propre.</em></p>
+  
+  <p><em>Chaque ligne de code est une incantation vers la précision.</em></p>
+  
+  <div style="margin-top: 25px; padding: 15px; background: rgba(255, 107, 107, 0.1); border-left: 4px solid #ff6b6b; border-radius: 4px;">
+    <strong style="color: #ff6b6b;">Ma Philosophy :</strong><br/>
+    <em>"De l'idée à la réalisation : <strong>TOUT est possible</strong> !"</em>
+  </div>
+</div>
 
-<p align="center">
-  <em>L’apprentissage en solitaire a forgé un style propre.</em><br/>
-  <em>Chaque ligne de code est une incantation vers la précision.</em>
-</p>
+<!-- Terminal à droite -->
+<div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+  <img src="assets/terminal-banner.svg" alt="Terminal Info" width="400" height="270" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
+</div>
 
+</div>
 
 ---
 

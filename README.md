@@ -1,31 +1,41 @@
-<!-- ===== HERO: Banner (gauche) + Bio / Terminal (droite) — sans bordure ===== -->
-<div style="display:table; width:100%; border:0; border-spacing:0;">
-  <div style="display:table-row;">
+<!-- ===== HERO: Banner (gauche) + Bio / Terminal (droite) ===== -->
+<table width="100%" role="presentation"
+       border="0" cellspacing="0" cellpadding="0"
+       frame="void" rules="none"
+       style="border:0;border-color:transparent;border-collapse:separate;background:transparent;">
+  <tr style="border:0;border-color:transparent;background:transparent;">
     <!-- Gauche : banner + bio (centrés) -->
-    <div style="display:table-cell; width:58%; vertical-align:top; padding-right:16px;">
-      <div style="text-align:center; max-width:560px; margin:0 auto;">
-        <img src="assets/banner.svg" alt="L’exigence du résultat"
-             width="520" height="70"
-             style="display:block; margin:0 auto 12px auto; border:0;" />
-        <p><em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em></p>
-        <p><em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em></p>
-        <p><em>L’apprentissage en solitaire a forgé un style propre.</em></p>
-        <p><em>Chaque ligne de code est une incantation vers la précision.</em></p>
+    <td width="62%" valign="top" align="center"
+        style="border:0;border-color:transparent;background:transparent;padding:0 16px 0 0;">
+      <img src="assets/banner.svg" alt="L’exigence du résultat"
+           width="520" height="70"
+           style="display:block;margin:0 auto 12px auto;border:0;" />
+      <div style="max-width:640px;margin:0 auto;">
+        <p style="margin:0 10px 10px 10px;text-align:center;">
+          <em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em>
+        </p>
+        <p style="margin:0 10px 10px 10px;text-align:center;">
+          <em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em>
+        </p>
+        <p style="margin:0 10px 10px 10px;text-align:center;">
+          <em>L’apprentissage en solitaire a forgé un style propre.</em>
+        </p>
+        <p style="margin:0 10px 0 10px;text-align:center;">
+          <em>Chaque ligne de code est une incantation vers la précision.</em>
+        </p>
       </div>
-    </div>
+    </td>
     <!-- Droite : terminal (centré verticalement) -->
-    <div style="display:table-cell; width:42%; vertical-align:middle; text-align:center;">
+    <td width="38%" valign="middle" align="center"
+        style="border:0;border-color:transparent;background:transparent;padding:0;">
       <img src="assets/terminal.svg" alt="King *error Terminal"
            width="440" height="294"
-           style="max-width:100%; height:auto; border:0;" />
-    </div>
-  </div>
-</div>
+           style="display:block;border:0;margin:0;" />
+    </td>
+  </tr>
+</table>
 
 <br/>
-
-
-
 
 
 

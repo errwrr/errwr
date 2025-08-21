@@ -4,7 +4,7 @@
   
 <!-- Titre animé -->
 <div align="center">
-  <img src="assets/terminal-banner.svg" alt="King *error Terminal" width="480" height="320"/>
+  <img src="assets/terminal.svg" alt="King *error Terminal" width="480" height="320"/>
 </div>
 
 <!-- Séparateur gothique -->

@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="assets/terminal.svg" alt="King *error Terminal"
+      <img src="assets/terminal2.svg" alt="King *error Terminal"
 </div>
 
 ---

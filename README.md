@@ -38,7 +38,7 @@
 <div align="center">
   <h3 style="margin:0; line-height:1.15;">
     <img src="assets/emote/crown-left.png" alt="emoji" height="34" style="vertical-align:middle; margin-right:6px;">
-    <span style="font-size:50px; font-weight:700;">Développeur Full-Stack Polyvalent</span>
+    <span style="font-size:100px; font-weight:700;">Développeur Full-Stack Polyvalent</span>
     <img src="assets/emote/crown-right.png" alt="emoji" height="34" style="vertical-align:middle; margin-left:6px;">
   </h3>
 

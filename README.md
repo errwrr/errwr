@@ -11,7 +11,6 @@
 
 ## *Tout ce qui est imaginable en numérique, je le rends réel.* 
 
-
 *De l'idée à la réalisation : **TOUT est possible** !*
 
 <br/>

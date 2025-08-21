@@ -36,11 +36,11 @@
 ---
 
 <div align="center">
-  <h3 style="margin:0; line-height:1.15;">
+  <p style="margin:0; font-size:32px; line-height:1.15; font-weight:700;">
     <img src="assets/emote/crown-left.png" alt="emoji" height="34" style="vertical-align:middle; margin-right:6px;">
-    <span style="font-size:100px; font-weight:700;">Développeur Full-Stack Polyvalent</span>
+    Développeur Full-Stack Polyvalent
     <img src="assets/emote/crown-right.png" alt="emoji" height="34" style="vertical-align:middle; margin-left:6px;">
-  </h3>
+  </p>
 
 
 <br/>

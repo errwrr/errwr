@@ -38,7 +38,7 @@
 <div align="center">
   <p style="margin:0; font-size:32px; line-height:1.15; font-weight:700;">
     <img src="assets/emote/crown-left.png" alt="emoji" height="34" style="vertical-align:middle; margin-right:6px;">
-    Développeur Full-Stack Polyvalent
+###    Développeur Full-Stack Polyvalent
     <img src="assets/emote/crown-right.png" alt="emoji" height="34" style="vertical-align:middle; margin-left:6px;">
   </p>
 

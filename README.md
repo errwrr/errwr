@@ -3,44 +3,42 @@
 <div align="center">
   
 <!-- Titre animé -->
-<div align="center">
-  <img src="assets/terminal.svg" alt="King *error Terminal" width="480" height="320"/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=45&duration=3000&pause=1000&color=E5E7EB&background=00000000&center=true&vCenter=true&multiline=false&width=300&height=80&lines=King+*err%C3%B8r;King+*err%C3%B8r" alt="Typing Animation" />
+</h1>
+
+<!-- Séparateur gothique -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"> -->
+
+<!-- Espace pour votre GIF -->
+<div style="margin: 80px 0;">
+  <img src="https://cdn.discordapp.com/attachments/1037074319538397277/1405909321333608468/Flying_angel.gif?ex=68a08a96&is=689f3916&hm=a9045930ad671baaeb2169b7e292c4f848e882474392c07125e64618a1935099&" alt="Gothic GIF" width="500" /> 
+  <p><em>welcome</em></p>
+</div>
+
+<!-- Séparateur -->
+<!--<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"> -->
+
 </div>
 
 ---
 
-<!-- Bandeau décoratif rétréci -->
+<!-- Bandeau décoratif -->
 <p align="center">
-  <img src="assets/banner.svg" alt="L'exigence du résultat" width="560" height="75">
+  <img src="assets/banner.svg" alt="L’exigence du résultat" width="720" height="96">
 </p>
 
-<!-- Section Bio + Terminal en deux colonnes -->
-<div style="display: flex; align-items: flex-start; justify-content: space-between; margin: 40px 0; gap: 30px;">
 
-<!-- Bio à gauche -->
-<div style="flex: 1; text-align: left; padding: 20px;">
-  <h3 style="color: #ff6b6b; margin-bottom: 20px;">💻 Développeur Autodidacte</h3>
-  
-  <p><em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em></p>
-  
-  <p><em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em></p>
-  
-  <p><em>L'apprentissage en solitaire a forgé un style propre.</em></p>
-  
-  <p><em>Chaque ligne de code est une incantation vers la précision.</em></p>
-  
-  <div style="margin-top: 25px; padding: 15px; background: rgba(255, 107, 107, 0.1); border-left: 4px solid #ff6b6b; border-radius: 4px;">
-    <strong style="color: #ff6b6b;">Ma Philosophy :</strong><br/>
-    <em>"De l'idée à la réalisation : <strong>TOUT est possible</strong> !"</em>
-  </div>
-</div>
+<p align="center">
+  <em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em><br/>
+  <em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em>
+</p>
 
-<!-- Terminal à droite -->
-<div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-  <img src="assets/terminal-banner.svg" alt="Terminal Info" width="400" height="270" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
-</div>
+<p align="center">
+  <em>L’apprentissage en solitaire a forgé un style propre.</em><br/>
+  <em>Chaque ligne de code est une incantation vers la précision.</em>
+</p>
 
-</div>
 
 ---
 

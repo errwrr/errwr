@@ -73,7 +73,7 @@
   <!-- Title -->
   <text x="400" y="20" text-anchor="middle" fill="#ccc"
         font-family="SF Pro Display, -apple-system, system-ui, monospace"
-        font-size="14" font-weight="500">errwrr@github:~/portfolio</text>
+        font-size="14" font-weight="500">errwrr@github:~/errwrr</text>
 
   <!-- ===== whoami (typewriter) ===== -->
   <text x="20" y="60" fill="#27ca3f"

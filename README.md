@@ -41,9 +41,6 @@
     <strong>Développeur Full-Stack Polyvalent</strong>
     <img src="assets/emote/crown-right.png" height="28" alt="emoji" style="vertical-align:middle; margin-left:6px;" />
   </h2>
-</div>
-
-<div align="center">
 
 *De l'idée à la réalisation : **TOUT est possible** !*
 

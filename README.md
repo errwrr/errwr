@@ -1,8 +1,5 @@
 <div align="center">
-  <tr>
-    <td width="40%" valign="middle" align="center">
       <img src="assets/terminal.svg" alt="King *error Terminal"
-    </td>
 </div>
 
 ---

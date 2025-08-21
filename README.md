@@ -87,7 +87,9 @@
 - **Planning équipe** — congés, horaires, tâches du jour
 - **Tableaux de bord** — voir vos ventes, vos performances d'un coup d'œil
 
-##  Créations spécialisées
+<div align="center">
+      <img src="assets/creations.svg" alt="King *error Terminal"
+</div>
 
 ## ⭐ Jeux et communautés
 - **Serveurs Minecraft** — mondes personnalisés pour votre communauté

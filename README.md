@@ -67,37 +67,35 @@
 
 ---
 
-## 💼 Services Professionnels
+## 💼 Services professionnels
 
-### Gaming & Communautés
- **Minecraft**: Plugins ou serveur sur mesure.
- **FiveM**: Scripts ou serveur sur mesure.
- **Discord**: Bots personnalisé.
- **Infrastructure**: Hébergement, sécurisation serveurs
+### Gaming & communautés
+- **Minecraft** — plugins & serveurs sur-mesure  
+- **FiveM** — scripts & serveurs sur-mesure  
+- **Discord** — bots personnalisés  
+- **Infrastructure** — hébergement, sécurité/anti-cheat, outils d’admin
 
-### Applications Métier
- **Web**: Sites vitrine, e-commerce, plateformes SaaS
- **Mobile**: Applications iOS/Android natives
- **Desktop**: Logiciels Windows/Mac/Linux
- **Dashboards**: Interfaces d'administration et analytics
+### Applications métier
+- **Web** — sites vitrine, e-commerce, plateformes SaaS  
+- **Mobile** — apps iOS/Android natives  
+- **Desktop** — Windows / macOS / Linux  
+- **Dashboards** — interfaces d’administration & analytics
 
 ### Intégrations & APIs
- **Paiements**: Stripe, PayPal, systèmes bancaires
- **Services**: APIs REST/GraphQL personnalisées
- **Automatisation**: Workflows, notifications
- **Données**: Collecte légale et traitement RGPD
+- **Paiements** — Stripe, PayPal…  
+- **APIs** — REST/GraphQL sur-mesure  
+- **Automatisation** — workflows & notifications  
+- **Données** — collecte & traitement conformes **RGPD**
 
-## 📋 Processus de Travail
-
-✅ **Analyse**: Étude détaillée des besoins  
-✅ **Devis**: Estimation transparente et détaillée  
-✅ **Développement**: Code propre et documenté  
-✅ **Tests**: Validation complète avant livraison  
-✅ **Support**: Maintenance et évolutions incluses
+## 📋 Processus de travail
+1. **Analyse** — besoins & objectifs  
+2. **Devis** — clair et détaillé  
+3. **Développement** — code propre, documenté  
+4. **Tests** — QA & validation de recette  
+5. **Support** — maintenance & évolutions
 
 ---
-*Développement légal et conforme • Code source fourni • Garantie qualité*
-
+*Conforme & légal • Code source livré • Engagement qualité*
 
 
 

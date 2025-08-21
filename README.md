@@ -67,7 +67,7 @@
 
 ---
 <div align="center">
-      <img src="assets/terminal.svg" alt="King *error Terminal"
+      <img src="assets/service.svg" alt="King *error Terminal"
 </div>
 
 ## ⭐ Créer votre boutique en ligne

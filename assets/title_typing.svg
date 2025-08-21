@@ -12,31 +12,41 @@
   <circle cx="110" cy="29" r="4" fill="#ffbd2e"/>
   <circle cx="124" cy="29" r="4" fill="#27c93f"/>
 
-  <!-- Ligne de saisie -->
+  <!-- Ligne de saisie (origine à 0,0) -->
+  <!-- On place l'ensemble ($ + texte + curseur) dans un groupe "line" qu'on translate pour rester centré -->
+  <!-- Centre visuel visé dans le terminal (repère local de la ligne) ~ 350px -->
   <g transform="translate(100,62)">
-    <text class="mono" fill="#23d18b">$</text>
+    <!-- Groupe qui se décale pour rester centré pendant la frappe -->
+    <g id="line" transform="translate(338,0)">
+      <!-- Animation de centrage (char width = 12px, largeur visible = (2 + n)*12 ; left = 350 - ((2+n)*12)/2 = 338 - 6n) -->
+      <animateTransform attributeName="transform" type="translate" calcMode="discrete" dur="3.84s" repeatCount="indefinite"
+        values="
+          338;332;326;320;314;308;302;296;290;284;278;272;266;260;254;248;242;236;230;224;218;212;206;
+          206;206;206;206;206;206;206;206;206;338" />
 
-    <!-- CLIP qui révèle 1 caractère à la fois (monospace ~12px/char) -->
-    <clipPath id="reveal">
-      <rect x="30" y="-18" width="0" height="26">
-        <!-- 22 lettres -> 23 positions (0..264) + 9 répétitions pour pause -->
-        <animate attributeName="width"
-                 values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;264;264;264;264;264;264;264;264;0"
-                 dur="3.84s" repeatCount="indefinite" calcMode="discrete"/>
+      <!-- Le prompt -->
+      <text class="mono" x="0" y="0" fill="#23d18b">$</text>
+
+      <!-- Clip qui révèle 1 caractère à la fois (texte monospace ~12px/char) -->
+      <!-- Le texte saisi commence après "$ " -> offset = 24px -->
+      <clipPath id="reveal">
+        <rect x="24" y="-18" width="0" height="26">
+          <!-- 22 lettres -> 23 steps (0..264) + 9 steps de pause, puis reset -->
+          <animate attributeName="width" calcMode="discrete" dur="3.84s" repeatCount="indefinite"
+            values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;264;264;264;264;264;264;264;264;0" />
+        </rect>
+      </clipPath>
+
+      <!-- Texte saisi -->
+      <text class="mono" x="24" y="0" fill="#e6edf3" clip-path="url(#reveal)">Développeur full stack polyvalant</text>
+
+      <!-- Curseur (local au groupe 'line') : avance case par case, puis blink pendant la pause -->
+      <rect x="24" y="-16" width="10" height="24" rx="2" fill="#e6edf3">
+        <animate attributeName="x" calcMode="discrete" dur="3.84s" repeatCount="indefinite"
+          values="24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;288;288;288;288;288;288;288;288;24" />
+        <animate attributeName="opacity" calcMode="discrete" dur="3.84s" repeatCount="indefinite"
+          values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;0;1;0;1;0;1;1" />
       </rect>
-    </clipPath>
-
-    <!-- Texte tapé (apparaît sous le clip) -->
-    <text class="mono" x="30" y="0" fill="#e6edf3" clip-path="url(#reveal)">Développeur full stack</text>
-
-    <!-- CURSEUR : avance “case par case” puis clignote pendant la pause -->
-    <rect x="30" y="-16" width="10" height="24" rx="2" fill="#e6edf3">
-      <animate attributeName="x"
-               values="30;42;54;66;78;90;102;114;126;138;150;162;174;186;198;210;222;234;246;258;270;282;294;294;294;294;294;294;294;294;294;30"
-               dur="3.84s" repeatCount="indefinite" calcMode="discrete"/>
-      <animate attributeName="opacity"
-               values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;0;1;0;1;0;1;1"
-               dur="3.84s" repeatCount="indefinite" calcMode="discrete"/>
-    </rect>
+    </g>
   </g>
 </svg>

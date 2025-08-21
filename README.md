@@ -1,29 +1,23 @@
-# 
+<!-- ====== HERO: Banner + Bio (gauche) / Terminal (droite) ====== -->
+<table width="100%">
+  <tr>
+    <!-- Colonne gauche : banner + bio -->
+    <td width="58%" valign="top">
+      <img src="assets/banner.svg" alt="L’exigence du résultat" width="520" height="70" />
 
-<div align="center">
-  
-<!-- Titre animé -->
-<div align="center">
-  <img src="assets/terminal.svg" alt="King *error Terminal" width="480" height="320"/>
-</div>
+      <br/><br/>
+      <em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em><br/>
+      <em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em><br/>
+      <em>L’apprentissage en solitaire a forgé un style propre.</em><br/>
+      <em>Chaque ligne de code est une incantation vers la précision.</em>
+    </td>
 
----
-
-<!-- Bandeau décoratif -->
-<p align="center">
-  <img src="assets/banner.svg" alt="L’exigence du résultat" width="720" height="96">
-</p>
-
-
-<p align="center">
-  <em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em><br/>
-  <em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em>
-</p>
-
-<p align="center">
-  <em>L’apprentissage en solitaire a forgé un style propre.</em><br/>
-  <em>Chaque ligne de code est une incantation vers la précision.</em>
-</p>
+    <!-- Colonne droite : terminal (centré verticalement) -->
+    <td width="42%" valign="middle" align="center">
+      <img src="assets/terminal.svg" alt="King *error Terminal" width="480" height="320" />
+    </td>
+  </tr>
+</table>
 
 
 ---

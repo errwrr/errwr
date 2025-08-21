@@ -1,0 +1,48 @@
+<svg width="720" height="96" viewBox="0 0 720 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="L’exigence du résultat">
+  <defs>
+    <!-- Dégradé animé -->
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%" gradientUnits="userSpaceOnUse">
+      <stop offset="-20%" stop-color="#FF3B3B">
+        <animate attributeName="offset" values="-20%;120%" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="20%" stop-color="#C1121F">
+        <animate attributeName="offset" values="0%;140%" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="60%" stop-color="#8B0000">
+        <animate attributeName="offset" values="40%;180%" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Ombre portée douce -->
+    <filter id="shadow" x="-20%" y="-50%" width="140%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#8B0000" flood-opacity=".35"/>
+    </filter>
+
+    <!-- Glow du texte -->
+    <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Ruban -->
+  <g filter="url(#shadow)">
+    <rect x="20" y="20" width="680" height="40" rx="14" fill="url(#g)"/>
+    <!-- petites pointes décoratives (fixes) -->
+    <polygon points="20,20 36,28 36,48 20,56" fill="#5c0000" opacity=".45"/>
+    <polygon points="700,20 684,28 684,48 700,56" fill="#5c0000" opacity=".45"/>
+  </g>
+
+  <!-- Texte (pulsation légère d'opacité) -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        fill="#FFFFFF" font-size="24" font-weight="700" filter="url(#textGlow)"
+        style="paint-order:stroke; stroke:#000; stroke-width:1; stroke-opacity:.2;">
+    <tspan>
+      L’exigence du résultat
+      <animate attributeName="opacity" values="1;0.92;1" dur="2.8s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+</svg>

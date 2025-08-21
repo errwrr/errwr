@@ -36,11 +36,12 @@
 ---
 
 <div align="center">
-<h3 style="margin:0; font-size:2.1em; line-height:1.15;">
-    <img src="assets/emote/crown-left.png" height="28" alt="emoji" style="vertical-align:middle; margin-right:6px;" />
-    <strong>Développeur Full-Stack Polyvalent</strong>
-    <img src="assets/emote/crown-right.png" height="28" alt="emoji" style="vertical-align:middle; margin-left:6px;" />
+  <h3 style="margin:0; line-height:1.15;">
+    <img src="assets/emote/crown-left.png" alt="emoji" height="34" style="vertical-align:middle; margin-right:6px;">
+    <span style="font-size:30px; font-weight:700;">Développeur Full-Stack Polyvalent</span>
+    <img src="assets/emote/crown-right.png" alt="emoji" height="34" style="vertical-align:middle; margin-left:6px;">
   </h3>
+
 
 <br/>
 

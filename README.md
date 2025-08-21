@@ -36,7 +36,7 @@
 ---
 <div align="center">
 
-<p align="center"><img src="assets/title_typing2.svg" width="760" alt="Développeur full stack"></p>
+<p align="center"><img src="assets/title_typing3.svg" width="760" alt="Développeur full stack"></p>
 
 
 <br/>

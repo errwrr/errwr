@@ -8,11 +8,9 @@
 
 <p align="center"><img src="assets/title_typing2.svg" width="760" alt="Développeur full stack"></p>
 
-  <h3 style="margin:0; line-height:1.15;">
-    <span style="font-size:32px; font-weight:800;">
-       Tout ce qui est imaginable en numérique, je le rends réel. 
-    </span>
-  </h3>
+
+## *Tout ce qui est imaginable en numérique, je le rends réel.* 
+
 
 *De l'idée à la réalisation : **TOUT est possible** !*
 

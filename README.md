@@ -1,3 +1,5 @@
+
+<div align="center">
 <!-- ===== HERO: Banner (gauche) + Bio / Terminal (droite) ===== -->
   <tr>
     </td>
@@ -7,8 +9,9 @@
            width="480" height="320" style="display:block;border:0;" />
     </td>
   </tr>
-
+</div>
 <br/>
+
 
 ---
 <div align="center">

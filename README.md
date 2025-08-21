@@ -2,7 +2,6 @@
   <tr>
     <td width="40%" valign="middle" align="center">
       <img src="assets/terminal2.svg" alt="King *error Terminal"
-           width="480" height="320" style="display:block;border:0;" />
     </td>
 </div>
 

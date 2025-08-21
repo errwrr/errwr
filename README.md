@@ -67,77 +67,147 @@
 
 ---
 
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); padding: 25px; border-radius: 15px; margin: 30px 0; border: 2px solid #ff6b6b;">
-
-### **Gaming & Serveurs** | **Web & Applications** | **Bots & Automation** | **Mobile & Desktop**
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; margin: 30px 0;">
-
-<div style="text-align: left; padding: 20px; background: rgba(255, 255, 255, 0.02); border-radius: 8px; border-left: 4px solid #ff6b6b;">
-
-**GAMING & SERVEURS**
-- Serveurs Minecraft (plugins customs, configurations avancées)
-- Serveurs FiveM (scripts Lua, MLO, systèmes économiques)
-- Bots Discord multifonctionnels avec base de données
-- Systèmes de rangs, économie et récompenses
-- Solutions anti-cheat et sécurité serveurs
-- Panels d'administration et interfaces de gestion
-- Intégrations API Steam, Minecraft, Discord
-
-</div>
-
-<div style="text-align: left; padding: 20px; background: rgba(255, 255, 255, 0.02); border-radius: 8px; border-left: 4px solid #4CAF50;">
-
-**WEB & E-COMMERCE**
-- Sites web professionnels et responsive design
-- Plateformes e-commerce avec systèmes de paiement
-- Applications web complexes (SaaS, dashboards)
-- Réseaux sociaux et plateformes communautaires
-- Forums sur mesure avec systèmes de modération
-- CMS personnalisés et systèmes de gestion de contenu
-- Optimisation SEO et performances web
-
-</div>
-
-<div style="text-align: left; padding: 20px; background: rgba(255, 255, 255, 0.02); border-radius: 8px; border-left: 4px solid #2196F3;">
-
-**AUTOMATION & BOTS**
-- Bots Discord/Telegram avec fonctionnalités avancées
-- Scripts d'automatisation de tâches répétitives
-- Web scraping et extraction de données
-- APIs REST/GraphQL personnalisées
-- Systèmes de notifications multi-plateformes
-- Intégrations avec services tiers (Stripe, PayPal, etc.)
-- Pipelines de données et traitement automatisé
-
-</div>
-
-<div style="text-align: left; padding: 20px; background: rgba(255, 255, 255, 0.02); border-radius: 8px; border-left: 4px solid #FF9800;">
-
-**APPLICATIONS & LOGICIELS**
-- Applications mobiles natives (iOS/Android)
-- Logiciels desktop multi-plateformes
-- Extensions navigateur (Chrome, Firefox)
-- Progressive Web Apps (PWA)
-- Applications Electron pour desktop
-- Solutions cross-platform avec React Native/Flutter
-- Intégration avec APIs natives et services cloud
-
-</div>
-
-</div>
-
-### **Portfolio de Réalisations Techniques**
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 30px 0;">
-
-`Bot modération Discord avancé` `Plateforme e-commerce complète` `Plugin Minecraft RPG custom` `Dashboard analytics temps réel`
-
-`Scripts FiveM économie serveur` `Application mobile géolocalisation` `Chatbot IA conversationnel` `Launcher jeu personnalisé`
-
-`Trading bot crypto-monnaies` `CRM entreprise sur mesure` `Plateforme streaming vidéo` `Système authentification 2FA`
-
-</div>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services de Développement</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: #0f0f0f;
+            color: #ffffff;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.4;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: linear-gradient(135deg, #1a1a1a, #252525);
+            padding: 30px;
+            border-radius: 12px;
+            border: 1px solid #333;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .services {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .service-card {
+            background: rgba(255, 255, 255, 0.03);
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 3px solid var(--accent);
+        }
+        .gaming { --accent: #ff4757; }
+        .web { --accent: #2ed573; }
+        .automation { --accent: #1e90ff; }
+        .apps { --accent: #ff9500; }
+        .service-title {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: var(--accent);
+        }
+        .service-list {
+            font-size: 13px;
+            line-height: 1.5;
+            opacity: 0.9;
+        }
+        .portfolio {
+            margin-top: 25px;
+            text-align: center;
+        }
+        .portfolio h3 {
+            font-size: 18px;
+            margin-bottom: 15px;
+            color: #ffffff;
+        }
+        .projects {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 10px;
+        }
+        .project {
+            background: #333;
+            padding: 8px 12px;
+            border-radius: 5px;
+            font-size: 12px;
+            font-weight: 500;
+            opacity: 0.85;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2 style="margin: 0; font-size: 20px;">Développement Full-Stack & Solutions Personnalisées</h2>
+        </div>
+        <div class="services">
+            <div class="service-card gaming">
+                <div class="service-title">Gaming & Serveurs</div>
+                <div class="service-list">
+                    • Serveurs Minecraft/FiveM<br>
+                    • Bots Discord avancés<br>
+                    • Systèmes économiques<br>
+                    • Anti-cheat & sécurité<br>
+                    • Panels d'administration
+                </div>
+            </div>
+            <div class="service-card web">
+                <div class="service-title">Web & E-commerce</div>
+                <div class="service-list">
+                    • Sites responsive professionnels<br>
+                    • Plateformes e-commerce<br>
+                    • Applications web SaaS<br>
+                    • CMS personnalisés<br>
+                    • Optimisation SEO
+                </div>
+            </div>
+            <div class="service-card automation">
+                <div class="service-title">Automation & APIs</div>
+                <div class="service-list">
+                    • Bots multifonctionnels<br>
+                    • Scripts d'automatisation<br>
+                    • APIs REST/GraphQL<br>
+                    • Web scraping<br>
+                    • Intégrations tierces
+                </div>
+            </div>
+            <div class="service-card apps">
+                <div class="service-title">Applications</div>
+                <div class="service-list">
+                    • Apps mobiles natives<br>
+                    • Logiciels desktop<br>
+                    • Extensions navigateur<br>
+                    • Progressive Web Apps<br>
+                    • Solutions cross-platform
+                </div>
+            </div>
+        </div>
+        <div class="portfolio">
+            <h3>Réalisations</h3>
+            <div class="projects">
+                <div class="project">Bot Discord Modération</div>
+                <div class="project">E-commerce B2B</div>
+                <div class="project">Plugin Minecraft RPG</div>
+                <div class="project">Dashboard Analytics</div>
+                <div class="project">Scripts FiveM</div>
+                <div class="project">App Mobile iOS/Android</div>
+                <div class="project">Trading Bot</div>
+                <div class="project">CRM Enterprise</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
 
 <div style="text-align: center; margin: 30px 0; padding: 25px; background: linear-gradient(135deg, rgba(255, 107, 107, 0.1) 0%, rgba(255, 107, 107, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(255, 107, 107, 0.2);">
 

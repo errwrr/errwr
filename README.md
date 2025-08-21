@@ -5,7 +5,9 @@
            width="480" height="320" style="display:block;border:0;" />
     </td>
 </div>
+
 ---
+
 <div align="center">
 
 <p align="center"><img src="assets/title_typing.svg" width="760" alt="Développeur full stack"></p>

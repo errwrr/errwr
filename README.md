@@ -1,28 +1,21 @@
-<!-- ===== HERO: Banner (gauche) + Bio / Terminal (droite) ===== -->
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation" style="border-collapse:collapse;">
-  <tr>
-    <!-- Gauche : banner + bio -->
-    <td width="58%" valign="top" align="left" style="border:0;">
-      <img src="assets/banner.svg" alt="L’exigence du résultat" width="520" height="70" />
-      <br/><br/>
-      <p>
-        <em>
-          <strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.
-          Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.
-          L’apprentissage en solitaire a forgé un style propre.
-          Chaque ligne de code est une incantation vers la précision.
-        </em>
-      </p>
-    </td>
-    <!-- Droite : terminal (centré verticalement) -->
-    <td width="42%" valign="middle" align="center" style="border:0;">
+<!-- ===== HERO: Banner (gauche) + Bio / Terminal (droite) — sans box ===== -->
+<div align="center">
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:24px; flex-wrap:wrap;">
+    <!-- Colonne gauche : banner + bio (centrée) -->
+    <div style="flex:1 1 560px; min-width:340px; text-align:center;">
+      <img src="assets/banner.svg" alt="L’exigence du résultat" width="520" height="70" style="display:block; margin:0 auto 12px auto;" />
+      <p><em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em></p>
+      <p><em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em></p>
+      <p><em>L’apprentissage en solitaire a forgé un style propre.</em></p>
+      <p><em>Chaque ligne de code est une incantation vers la précision.</em></p>
+    </div>
+    <!-- Colonne droite : terminal (centré verticalement) -->
+    <div style="flex:0 0 480px; display:flex; align-items:center; justify-content:center; min-width:340px;">
       <img src="assets/terminal.svg" alt="King *error Terminal" width="480" height="320" />
-    </td>
-  </tr>
-</table>
+    </div>
 
-<br/>
+  </div>
+</div>
 
 
 

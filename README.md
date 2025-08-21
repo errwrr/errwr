@@ -75,7 +75,7 @@
 - **Discord** — bots personnalisés  
 - **Infrastructure** — hébergement, sécurité/anti-cheat, outils d’admin
 
-### Applications métier
+### Applications
 - **Web** — sites vitrine, e-commerce, plateformes SaaS  
 - **Mobile** — apps iOS/Android natives  
 - **Desktop** — Windows / macOS / Linux  

@@ -183,6 +183,7 @@
 
 
 *"Voici le chemin que j’ai choisi — gagner ou perdre." — **Baki Hanma***
+
 **© 2025 King *errør***
 
 <sub> *N'hésitez pas à mettre une étoile si ce profil vous plaît !*</sub>

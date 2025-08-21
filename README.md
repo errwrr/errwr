@@ -68,32 +68,32 @@
 ---
  💼 Services professionnels
 
-## Créer votre boutique en ligne
+## ⭐ Créer votre boutique en ligne
 - **Site de vente** — pour vendre vos produits 24h/24
 - **Catalogue produits** — photos, descriptions, prix automatiques
 - **Paiement sécurisé** — carte bancaire, PayPal, virement
 - **Gestion automatique** — stocks, commandes, factures
 
-## Être visible sur internet
+## ⭐ Être visible sur internet
 - **Site professionnel** — qui donne confiance à vos clients
 - **Être trouvé sur Google** — apparaître quand on vous cherche
 - **Mesurer vos résultats** — savoir ce qui marche vraiment
 
-## Simplifier votre gestion quotidienne
+## ⭐ Simplifier votre gestion quotidienne
 - **Fichier clients intelligent** — historique, préférences, relances
 - **Facturation automatique** — devis, factures, rappels de paiement
 - **Planning équipe** — congés, horaires, tâches du jour
 - **Tableaux de bord** — voir vos ventes, vos performances d'un coup d'œil
 
-## 🎮 Créations spécialisées
+##  Créations spécialisées
 
-### Jeux et communautés
+## ⭐ Jeux et communautés
 - **Serveurs Minecraft** — mondes personnalisés pour votre communauté
 - **Serveurs FiveM** — votre serveur GTA roleplay unique
 - **Bots Discord** — modération et fonctions sur-mesure
 - **Hébergement gaming** — serveurs rapides et sécurisés
 
-### Applications sur-mesure
+## ⭐ Applications sur-mesure
 - **Sites internet** — vitrine, blog, boutique, sur-mesure
 - **Apps mobile** — iPhone et Android pour vos clients
 - **Logiciels Windows/Mac** — outils spécifiques à votre activité
@@ -101,7 +101,7 @@
 
 ## 🔧 Comment je peux vous aider ?
 
-### ⚡ Créer rapidement
+## ⭐ Créer rapidement
 - **Analyser vos besoins** — comprendre ce qui vous faut
 - **Version test** — pour valider votre idée
 - **Auditer l'existant** — voir ce qui peut être amélioré
@@ -109,7 +109,7 @@
 - **Former vos équipes** — utiliser au mieux vos nouveaux outils
 - **Mise en ligne express** — opérationnel en quelques semaines
 
-### 🔧 Améliorer et maintenir
+## ⭐ Améliorer et maintenir
 - **Moderniser votre site** — plus rapide, plus beau, plus efficace
 - **Ajouter des fonctions** — nouvelles possibilités selon vos besoins
 - **Réparer et améliorer** — corriger les bugs, optimiser les performances

@@ -1,7 +1,22 @@
-
-<div align="center">
 <!-- ===== HERO: Banner (gauche) + Bio / Terminal (droite) ===== -->
+<table width="100%" border="1" cellspacing="0" cellpadding="12" role="presentation">
   <tr>
+    <!-- Gauche : banner + bio (centrés) -->
+    <td width="60%" valign="top" align="center">
+      <img src="assets/banner.svg" alt="L’exigence du résultat" width="520" height="70"
+           style="display:block;margin:0 auto 12px auto;border:0;" />
+      <p style="margin:0 0 10px 0;text-align:center;">
+        <em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em>
+      </p>
+      <p style="margin:0 0 10px 0;text-align:center;">
+        <em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em>
+      </p>
+      <p style="margin:0 0 10px 0;text-align:center;">
+        <em>L’apprentissage en solitaire a forgé un style propre.</em>
+      </p>
+      <p style="margin:0;text-align:center;">
+        <em>Chaque ligne de code est une incantation vers la précision.</em>
+      </p>
     </td>
     <!-- Droite : terminal (centré verticalement) -->
     <td width="40%" valign="middle" align="center">
@@ -9,9 +24,7 @@
            width="480" height="320" style="display:block;border:0;" />
     </td>
   </tr>
-</div>
-<br/>
-
+</table>
 
 ---
 <div align="center">

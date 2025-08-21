@@ -10,7 +10,7 @@
       <stop offset="100%" stop-color="#1a1a1a"/>
     </linearGradient>
 
-    <!-- Small green glow for titles -->
+    <!-- Small green glow (unused for bio) -->
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -19,22 +19,6 @@
     <!-- Blur only for the GIF background -->
     <filter id="bgBlur" x="-10%" y="-10%" width="120%" height="120%">
       <feGaussianBlur stdDeviation="3.2"/>
-    </filter>
-
-    <!-- White neon for text outlines -->
-    <filter id="neonWhite" x="-60%" y="-60%" width="220%" height="220%">
-      <!-- Blur the white underlayer to create the glow -->
-      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
-      <!-- Optional: gentle boost -->
-      <feColorMatrix in="blur" type="matrix"
-        values="1 0 0 0 0
-                0 1 0 0 0
-                0 0 1 0 0
-                0 0 0 1 0" result="g"/>
-      <feMerge>
-        <feMergeNode in="g"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
     </filter>
 
     <!-- Scanlines overlay -->
@@ -132,35 +116,15 @@
     </rect>
   </g>
 
-  <!-- ===== BIO progressive (NOIR + contour blanc néon) ===== -->
+  <!-- ===== BIO progressive (BLANC simple) ===== -->
   <!-- Trigger time for bio -->
   <rect width="0" height="0">
     <animate id="startBio" attributeName="width" from="0" to="0" begin="4s" dur="0.01s" fill="freeze"/>
   </rect>
 
-  <!-- L1 : under-glow (white) -->
-  <text x="400" y="180" text-anchor="middle"
-        font-family="SF Mono, Monaco, 'Cascadia Code', monospace"
-        font-size="14" filter="url(#neonWhite)" fill="#ffffff">
-    <tspan opacity="0">Autodidacte <set attributeName="opacity" to="1" begin="startBio.begin+0.00s"/></tspan>
-    <tspan opacity="0">depuis <set attributeName="opacity" to="1" begin="startBio.begin+0.10s"/></tspan>
-    <tspan opacity="0">plus <set attributeName="opacity" to="1" begin="startBio.begin+0.20s"/></tspan>
-    <tspan opacity="0">de <set attributeName="opacity" to="1" begin="startBio.begin+0.30s"/></tspan>
-    <tspan opacity="0">4 <set attributeName="opacity" to="1" begin="startBio.begin+0.40s"/></tspan>
-    <tspan opacity="0">ans, <set attributeName="opacity" to="1" begin="startBio.begin+0.50s"/></tspan>
-    <tspan opacity="0">je <set attributeName="opacity" to="1" begin="startBio.begin+0.60s"/></tspan>
-    <tspan opacity="0">trace <set attributeName="opacity" to="1" begin="startBio.begin+0.70s"/></tspan>
-    <tspan opacity="0">ma <set attributeName="opacity" to="1" begin="startBio.begin+0.80s"/></tspan>
-    <tspan opacity="0">voie <set attributeName="opacity" to="1" begin="startBio.begin+0.90s"/></tspan>
-    <tspan opacity="0">sans <set attributeName="opacity" to="1" begin="startBio.begin+1.00s"/></tspan>
-    <tspan opacity="0">cursus <set attributeName="opacity" to="1" begin="startBio.begin+1.10s"/></tspan>
-    <tspan opacity="0">académique. <set attributeName="opacity" to="1" begin="startBio.begin+1.20s"/></tspan>
-  </text>
-  <!-- L1 : top crisp (black fill + white stroke) -->
-  <text x="400" y="180" text-anchor="middle"
-        font-family="SF Mono, Monaco, 'Cascadia Code', monospace"
-        font-size="14"
-        style="paint-order: stroke; stroke:#fff; stroke-width:1.1; stroke-linejoin:round;" fill="#0a0a0a">
+  <!-- L1 -->
+  <text x="400" y="180" text-anchor="middle" fill="#ffffff"
+        font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="14">
     <tspan opacity="0">Autodidacte <set attributeName="opacity" to="1" begin="startBio.begin+0.00s"/></tspan>
     <tspan opacity="0">depuis <set attributeName="opacity" to="1" begin="startBio.begin+0.10s"/></tspan>
     <tspan opacity="0">plus <set attributeName="opacity" to="1" begin="startBio.begin+0.20s"/></tspan>
@@ -176,8 +140,8 @@
     <tspan opacity="0">académique. <set attributeName="opacity" to="1" begin="startBio.begin+1.20s"/></tspan>
   </text>
 
-  <!-- L2 glow -->
-  <text x="400" y="206" text-anchor="middle" filter="url(#neonWhite)" fill="#ffffff"
+  <!-- L2 -->
+  <text x="400" y="206" text-anchor="middle" fill="#ffffff"
         font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="14">
     <tspan opacity="0">Mes <set attributeName="opacity" to="1" begin="startBio.begin+1.45s"/></tspan>
     <tspan opacity="0">projets <set attributeName="opacity" to="1" begin="startBio.begin+1.55s"/></tspan>
@@ -191,37 +155,15 @@
     <tspan opacity="0">une <set attributeName="opacity" to="1" begin="startBio.begin+2.35s"/></tspan>
     <tspan opacity="0">passion <set attributeName="opacity" to="1" begin="startBio.begin+2.45s"/></tspan>
   </text>
-  <!-- L2 crisp -->
-  <text x="400" y="206" text-anchor="middle"
-        font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="14"
-        style="paint-order: stroke; stroke:#fff; stroke-width:1.1; stroke-linejoin:round;" fill="#0a0a0a">
-    <tspan opacity="0">Mes <set attributeName="opacity" to="1" begin="startBio.begin+1.45s"/></tspan>
-    <tspan opacity="0">projets <set attributeName="opacity" to="1" begin="startBio.begin+1.55s"/></tspan>
-    <tspan opacity="0">privés <set attributeName="opacity" to="1" begin="startBio.begin+1.65s"/></tspan>
-    <tspan opacity="0">grandissent <set attributeName="opacity" to="1" begin="startBio.begin+1.75s"/></tspan>
-    <tspan opacity="0">loin <set attributeName="opacity" to="1" begin="startBio.begin+1.85s"/></tspan>
-    <tspan opacity="0">des <set attributeName="opacity" to="1" begin="startBio.begin+1.95s"/></tspan>
-    <tspan opacity="0">projecteurs, <set attributeName="opacity" to="1" begin="startBio.begin+2.05s"/></tspan>
-    <tspan opacity="0">guidés <set attributeName="opacity" to="1" begin="startBio.begin+2.15s"/></tspan>
-    <tspan opacity="0">par <set attributeName="opacity" to="1" begin="startBio.begin+2.25s"/></tspan>
-    <tspan opacity="0">une <set attributeName="opacity" to="1" begin="startBio.begin+2.35s"/></tspan>
-    <tspan opacity="0">passion <set attributeName="opacity" to="1" begin="startBio.begin+2.45s"/></tspan>
-  </text>
 
-  <!-- L3 glow -->
-  <text x="400" y="224" text-anchor="middle" filter="url(#neonWhite)" fill="#ffffff"
+  <!-- L3 -->
+  <text x="400" y="224" text-anchor="middle" fill="#ffffff"
         font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="14">
     <tspan opacity="0">exigeante. <set attributeName="opacity" to="1" begin="startBio.begin+2.65s"/></tspan>
   </text>
-  <!-- L3 crisp -->
-  <text x="400" y="224" text-anchor="middle"
-        font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="14"
-        style="paint-order: stroke; stroke:#fff; stroke-width:1.1; stroke-linejoin:round;" fill="#0a0a0a">
-    <tspan opacity="0">exigeante. <set attributeName="opacity" to="1" begin="startBio.begin+2.65s"/></tspan>
-  </text>
 
-  <!-- L4 glow -->
-  <text x="400" y="250" text-anchor="middle" filter="url(#neonWhite)" fill="#ffffff"
+  <!-- L4 -->
+  <text x="400" y="250" text-anchor="middle" fill="#ffffff"
         font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="14">
     <tspan opacity="0">L'apprentissage <set attributeName="opacity" to="1" begin="startBio.begin+2.95s"/></tspan>
     <tspan opacity="0">en <set attributeName="opacity" to="1" begin="startBio.begin+3.05s"/></tspan>
@@ -232,38 +174,10 @@
     <tspan opacity="0">style <set attributeName="opacity" to="1" begin="startBio.begin+3.55s"/></tspan>
     <tspan opacity="0">propre. <set attributeName="opacity" to="1" begin="startBio.begin+3.65s"/></tspan>
   </text>
-  <!-- L4 crisp -->
-  <text x="400" y="250" text-anchor="middle"
-        font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="14"
-        style="paint-order: stroke; stroke:#fff; stroke-width:1.1; stroke-linejoin:round;" fill="#0a0a0a">
-    <tspan opacity="0">L'apprentissage <set attributeName="opacity" to="1" begin="startBio.begin+2.95s"/></tspan>
-    <tspan opacity="0">en <set attributeName="opacity" to="1" begin="startBio.begin+3.05s"/></tspan>
-    <tspan opacity="0">solitaire <set attributeName="opacity" to="1" begin="startBio.begin+3.15s"/></tspan>
-    <tspan opacity="0">a <set attributeName="opacity" to="1" begin="startBio.begin+3.25s"/></tspan>
-    <tspan opacity="0">forgé <set attributeName="opacity" to="1" begin="startBio.begin+3.35s"/></tspan>
-    <tspan opacity="0">un <set attributeName="opacity" to="1" begin="startBio.begin+3.45s"/></tspan>
-    <tspan opacity="0">style <set attributeName="opacity" to="1" begin="startBio.begin+3.55s"/></tspan>
-    <tspan opacity="0">propre. <set attributeName="opacity" to="1" begin="startBio.begin+3.65s"/></tspan>
-  </text>
 
-  <!-- L5 glow -->
-  <text x="400" y="276" text-anchor="middle" filter="url(#neonWhite)" fill="#ffffff"
+  <!-- L5 -->
+  <text x="400" y="276" text-anchor="middle" fill="#ffffff"
         font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="14">
-    <tspan opacity="0">Chaque <set attributeName="opacity" to="1" begin="startBio.begin+3.95s"/></tspan>
-    <tspan opacity="0">ligne <set attributeName="opacity" to="1" begin="startBio.begin+4.05s"/></tspan>
-    <tspan opacity="0">de <set attributeName="opacity" to="1" begin="startBio.begin+4.15s"/></tspan>
-    <tspan opacity="0">code <set attributeName="opacity" to="1" begin="startBio.begin+4.25s"/></tspan>
-    <tspan opacity="0">est <set attributeName="opacity" to="1" begin="startBio.begin+4.35s"/></tspan>
-    <tspan opacity="0">une <set attributeName="opacity" to="1" begin="startBio.begin+4.45s"/></tspan>
-    <tspan opacity="0">incantation <set attributeName="opacity" to="1" begin="startBio.begin+4.55s"/></tspan>
-    <tspan opacity="0">vers <set attributeName="opacity" to="1" begin="startBio.begin+4.65s"/></tspan>
-    <tspan opacity="0">la <set attributeName="opacity" to="1" begin="startBio.begin+4.75s"/></tspan>
-    <tspan opacity="0">précision. <set attributeName="opacity" to="1" begin="startBio.begin+4.85s"/></tspan>
-  </text>
-  <!-- L5 crisp -->
-  <text x="400" y="276" text-anchor="middle"
-        font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="14"
-        style="paint-order: stroke; stroke:#fff; stroke-width:1.1; stroke-linejoin:round;" fill="#0a0a0a">
     <tspan opacity="0">Chaque <set attributeName="opacity" to="1" begin="startBio.begin+3.95s"/></tspan>
     <tspan opacity="0">ligne <set attributeName="opacity" to="1" begin="startBio.begin+4.05s"/></tspan>
     <tspan opacity="0">de <set attributeName="opacity" to="1" begin="startBio.begin+4.15s"/></tspan>

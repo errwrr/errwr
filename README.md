@@ -42,6 +42,8 @@
     <img src="assets/emote/crown-right.png" height="28" alt="emoji" style="vertical-align:middle; margin-left:6px;" />
   </h3>
 
+<br/>
+
 *De l'idée à la réalisation : **TOUT est possible** !*
 
 ### 🌟 **"Si ça existe en numérique, je peux le créer"** 🌟

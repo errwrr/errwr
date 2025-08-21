@@ -10,6 +10,51 @@
 ---
 
 <!-- Layout: Banner + Bio à gauche, Terminal à droite -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="60%" valign="top">
+
+<!-- Bandeau décoratif en haut à gauche -->
+<p align="left">
+  <img src="assets/banner.svg" alt="L'exigence du résultat" width="480" height="64">
+</p>
+
+<!-- Bio simple sans encadré -->
+<br>
+
+**💻 Développeur Autodidacte**
+
+*Autodidacte depuis plus de 4 ans*, je trace ma voie sans cursus académique.
+
+*Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.*
+
+*L'apprentissage en solitaire a forgé un style propre.*
+
+*Chaque ligne de code est une incantation vers la précision.*
+
+**🎯 Ma Philosophy :** *"De l'idée à la réalisation : TOUT est possible !"*
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="assets/terminal-banner.svg" alt="Terminal Info" width="380" height="250"/>
+
+</td>
+</tr>
+</table>
+
+---# 
+
+<div align="center">
+  
+<!-- Titre animé -->
+<div align="center">
+  <img src="assets/terminal.svg" alt="King *error Terminal" width="480" height="320"/>
+</div>
+
+---
+
+<!-- Layout: Banner + Bio à gauche, Terminal à droite -->
 <table width="100%" style="border: none;">
 <tr>
 <td width="55%" valign="top" style="border: none; padding: 0;">

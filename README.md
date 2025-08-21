@@ -38,9 +38,6 @@
 
 <p align="center"><img src="assets/title_typing.svg" width="760" alt="Développeur full stack"></p>
 
-
-<br/>
-
   <h3 style="margin:0; line-height:1.15;">
     <img src="assets/emote/crown-left.png" alt="emoji" height="38" style="vertical-align:middle; margin-right:8px;">
     <span style="font-size:32px; font-weight:800;">

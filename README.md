@@ -67,64 +67,36 @@
 
 ---
 
-<div style="margin:28px 0;padding:22px;border-radius:14px;background:linear-gradient(135deg,#151515,#222);border:1px solid #2b2b2b">
+## 💼 Services Professionnels
 
-  <h3 style="margin:0 0 12px 0;text-align:center;">Domaines & Services</h3>
+### Gaming & Communautés
+- **Minecraft**: Plugins ou serveur sur mesure.
+- **FiveM**: Scripts ou serveur sur mesure.
+- **Discord**: Bots personnalisé.
+- **Infrastructure**: Hébergement, sécurisation serveurs
 
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px">
-    <div style="padding:16px;border-left:3px solid #ff6b6b;background:rgba(255,255,255,.02);border-radius:8px">
-      <strong>Gaming & Serveurs</strong>
-      <ul style="margin:8px 0 0 16px">
-        <li>Minecraft : plugins & admin</li>
-        <li>FiveM : scripts Lua & économie</li>
-        <li>Bots Discord : rôles, BDD</li>
-        <li>Anti-cheat & outils d’admin</li>
-      </ul>
-    </div>
-    <div style="padding:16px;border-left:3px solid #4CAF50;background:rgba(255,255,255,.02);border-radius:8px">
-      <strong>Web & E-commerce</strong>
-      <ul style="margin:8px 0 0 16px">
-        <li>Sites pros & responsive</li>
-        <li>Shop & paiements</li>
-        <li>Dashboards / SaaS</li>
-        <li>SEO & performances</li>
-      </ul>
-    </div
-    <div style="padding:16px;border-left:3px solid #2196F3;background:rgba(255,255,255,.02);border-radius:8px">
-      <strong>Automation & Bots</strong>
-      <ul style="margin:8px 0 0 16px">
-        <li>Discord / Telegram avancés</li>
-        <li>Scripts d’automatisation</li>
-        <li>Scraping & APIs</li>
-        <li>Notifications multi-canaux</li>
-      </ul>
-    </div>
-    <div style="padding:16px;border-left:3px solid #FF9800;background:rgba(255,255,255,.02);border-radius:8px">
-      <strong>Apps & Logiciels</strong>
-      <ul style="margin:8px 0 0 16px">
-        <li>Mobile iOS/Android</li>
-        <li>Desktop & Electron</li>
-        <li>Web Apps / PWA</li>
-        <li>Intégrations cloud & APIs</li>
-      </ul>
-    </div>
-  </div>
+### Applications Métier
+- **Web**: Sites vitrine, e-commerce, plateformes SaaS
+- **Mobile**: Applications iOS/Android natives
+- **Desktop**: Logiciels Windows/Mac/Linux
+- **Dashboards**: Interfaces d'administration et analytics
 
-  <h4 style="margin:22px 0 10px 0;text-align:center;">Réalisations (extraits)</h4>
-  <div style="display:flex;flex-wrap:wrap;gap:8px;justify-content:center">
-    <span style="padding:6px 10px;border:1px solid #3a3a3a;border-radius:9999px;background:rgba(255,255,255,.03)">Bot Discord modération</span>
-    <span style="padding:6px 10px;border:1px solid #3a3a3a;border-radius:9999px;background:rgba(255,255,255,.03)">E-commerce complet</span>
-    <span style="padding:6px 10px;border:1px solid #3a3a3a;border-radius:9999px;background:rgba(255,255,255,.03)">Plugin Minecraft RPG</span>
-    <span style="padding:6px 10px;border:1px solid #3a3a3a;border-radius:9999px;background:rgba(255,255,255,.03)">Dashboard temps réel</span>
-    <span style="padding:6px 10px;border:1px solid #3a3a3a;border-radius:9999px;background:rgba(255,255,255,.03)">Scripts FiveM économie</span>
-    <span style="padding:6px 10px;border:1px solid #3a3a3a;border-radius:9999px;background:rgba(255,255,255,.03)">App mobile géoloc</span>
-    <span style="padding:6px 10px;border:1px solid #3a3a3a;border-radius:9999px;background:rgba(255,255,255,.03)">Chatbot IA</span>
-    <span style="padding:6px 10px;border:1px solid #3a3a3a;border-radius:9999px;background:rgba(255,255,255,.03)">Launcher jeu</span>
-  </div>
+### Intégrations & APIs
+- **Paiements**: Stripe, PayPal, systèmes bancaires
+- **Services**: APIs REST/GraphQL personnalisées
+- **Automatisation**: Workflows, notifications
+- **Données**: Collecte légale et traitement RGPD
 
-</div>
+## 📋 Processus de Travail
 
+✅ **Analyse**: Étude détaillée des besoins  
+✅ **Devis**: Estimation transparente et détaillée  
+✅ **Développement**: Code propre et documenté  
+✅ **Tests**: Validation complète avant livraison  
+✅ **Support**: Maintenance et évolutions incluses
 
+---
+*Développement légal et conforme • Code source fourni • Garantie qualité*
 
 
 

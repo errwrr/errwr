@@ -6,34 +6,25 @@
       <stop offset="50%" stop-color="#E21E1E"/>
       <stop offset="100%" stop-color="#7A0000"/>
     </linearGradient>
-
-    <!-- Ombre douce (statique) -->
-    <filter id="shadow" x="-20%" y="-50%" width="140%" height="200%">
-      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#8B0000" flood-opacity=".35"/>
-    </filter>
   </defs>
 
-  <!-- Ruban -->
-  <g filter="url(#shadow)">
-    <rect x="20" y="20" width="680" height="40" rx="14" fill="url(#g)"/>
-  </g>
+  <!-- Ruban (sans ombre) -->
+  <rect x="20" y="20" width="680" height="40" rx="14" fill="url(#g)"/>
 
   <!-- Groupe centré (texte + soulignement) -->
-  <!-- On se place au centre horizontal (360) et vertical (48) -->
-  <g transform="translate(360,44)">
-    <!-- Texte centré avec légère oscillation type "feuille" -->
-    <text x="0" y="0" text-anchor="middle" dominant-baseline="middle"
+  <g transform="translate(360,48)">
+    <!-- TEXTE : on le monte légèrement avec y="-4" -->
+    <text x="0" y="-4" text-anchor="middle" dominant-baseline="middle"
           fill="#FFFFFF" font-size="24" font-weight="700"
           style="paint-order:stroke; stroke:#000; stroke-width:1; stroke-opacity:.18;">
       L’exigence du résultat
-      <!-- oscillation douce -->
+      <!-- oscillation douce type "feuille" -->
       <animateTransform attributeName="transform" attributeType="XML"
                         type="rotate" values="-1;1;-1" dur="6s"
                         repeatCount="indefinite"/>
     </text>
 
-    <!-- Soulignement centré sous le texte -->
-    <!-- Ligne de 340px de long, centrée (de -170 à 170) à y=16 sous le centre -->
+    <!-- Soulignement animé (inchangé) -->
     <line x1="-170" x2="170" y1="16" y2="16"
           stroke="#FFFFFF" stroke-opacity="0.6" stroke-width="2"
           stroke-linecap="round" stroke-dasharray="60 280">

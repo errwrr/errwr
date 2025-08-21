@@ -1,41 +1,26 @@
-<!-- ===== HERO: Banner (gauche) + Bio / Terminal (droite) ===== -->
-<table width="100%" role="presentation"
-       border="0" cellspacing="0" cellpadding="0"
-       frame="void" rules="none"
-       style="border:0;border-color:transparent;border-collapse:separate;background:transparent;">
-  <tr style="border:0;border-color:transparent;background:transparent;">
-    <!-- Gauche : banner + bio (centrés) -->
-    <td width="62%" valign="top" align="center"
-        style="border:0;border-color:transparent;background:transparent;padding:0 16px 0 0;">
+<!-- ===== HERO: Banner (gauche) + Bio / Terminal (droite) — 2 colonnes, sans bordure ===== -->
+<div align="center">
+  <div style="display:flex; flex-wrap:nowrap; align-items:center; justify-content:space-between; gap:24px;">
+    <!-- Colonne gauche : banner + bio (centrés) -->
+    <div style="flex:1 1 auto; min-width:520px; max-width:640px; text-align:center;">
       <img src="assets/banner.svg" alt="L’exigence du résultat"
            width="520" height="70"
-           style="display:block;margin:0 auto 12px auto;border:0;" />
-      <div style="max-width:640px;margin:0 auto;">
-        <p style="margin:0 10px 10px 10px;text-align:center;">
-          <em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em>
-        </p>
-        <p style="margin:0 10px 10px 10px;text-align:center;">
-          <em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em>
-        </p>
-        <p style="margin:0 10px 10px 10px;text-align:center;">
-          <em>L’apprentissage en solitaire a forgé un style propre.</em>
-        </p>
-        <p style="margin:0 10px 0 10px;text-align:center;">
-          <em>Chaque ligne de code est une incantation vers la précision.</em>
-        </p>
-      </div>
-    </td>
-    <!-- Droite : terminal (centré verticalement) -->
-    <td width="38%" valign="middle" align="center"
-        style="border:0;border-color:transparent;background:transparent;padding:0;">
+           style="display:block; margin:0 auto 12px auto; border:0;" />
+      <p style="margin:0 0 10px 0;"><em><strong>Autodidacte depuis plus de 4 ans</strong>, je trace ma voie sans cursus académique.</em></p>
+      <p style="margin:0 0 10px 0;"><em>Mes projets privés grandissent loin des projecteurs, guidés par une passion exigeante.</em></p>
+      <p style="margin:0 0 10px 0;"><em>L’apprentissage en solitaire a forgé un style propre.</em></p>
+      <p style="margin:0;"><em>Chaque ligne de code est une incantation vers la précision.</em></p>
+    </div>
+    <!-- Colonne droite : terminal -->
+    <div style="flex:0 0 440px; text-align:center;">
       <img src="assets/terminal.svg" alt="King *error Terminal"
            width="440" height="294"
-           style="display:block;border:0;margin:0;" />
-    </td>
-  </tr>
-</table>
+           style="display:block; margin:0; border:0; max-width:100%; height:auto;" />
+    </div>
 
-<br/>
+  </div>
+</div>
+
 
 
 

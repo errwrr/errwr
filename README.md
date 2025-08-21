@@ -43,7 +43,9 @@
 
 *De l'idée à la réalisation : **TOUT est possible** !*
 
-### 🌟 **"Si ça existe en numérique, je peux le créer"** 🌟
+  <img src="assets/emote/crown-left.png" alt="emoji" height="32" />
+### **"Si ça existe en numérique, je peux le créer"**
+  <img src="assets/emote/crown-right.png" alt="emoji" height="32" />
 
 <br/>
 

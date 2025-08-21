@@ -66,7 +66,9 @@
 </div>
 
 ---
- 💼 Services professionnels
+<div align="center">
+      <img src="assets/terminal.svg" alt="King *error Terminal"
+</div>
 
 ## ⭐ Créer votre boutique en ligne
 - **Site de vente** — pour vendre vos produits 24h/24

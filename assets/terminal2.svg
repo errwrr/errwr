@@ -1,0 +1,116 @@
+<svg width="1000" height="500" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal Banner">
+  <defs>
+    <!-- Gradient terminal background -->
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1e1e"/>
+      <stop offset="50%" stop-color="#2d2d2d"/>
+      <stop offset="100%" stop-color="#1a1a1a"/>
+    </linearGradient>
+    
+    <!-- Green glow effect -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Scanlines -->
+    <pattern id="scanlines" patternUnits="userSpaceOnUse" width="100%" height="4">
+      <rect width="100%" height="4" fill="#000" opacity="0.08"/>
+      <rect width="100%" height="2" fill="transparent"/>
+    </pattern>
+  </defs>
+
+  <!-- Terminal window -->
+  <rect width="1000" height="500" rx="12" fill="url(#termBg)" stroke="#444" stroke-width="2"/>
+  
+  <!-- Terminal header -->
+  <rect width="1000" height="40" rx="12" fill="#3c3c3c"/>
+  <rect y="40" width="1000" height="460" fill="url(#termBg)"/>
+  
+  <!-- Traffic lights -->
+  <circle cx="25" cy="20" r="8" fill="#ff5f56"/>
+  <circle cx="50" cy="20" r="8" fill="#ffbd2e"/>  
+  <circle cx="75" cy="20" r="8" fill="#27ca3f"/>
+  
+  <!-- Terminal title -->
+  <text x="500" y="26" text-anchor="middle" fill="#ccc" font-family="SF Pro Display, -apple-system, system-ui, monospace" font-size="14" font-weight="500">
+    errwrr@github:~/portfolio
+  </text>
+
+  <!-- Prompt line -->
+  <text x="30" y="80" fill="#27ca3f" font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="18" font-weight="600">
+    $
+  </text>
+  
+  <!-- Command typing animation -->
+  <text x="50" y="80" fill="#ffffff" font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="18">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0s" fill="freeze"/>
+    whoami
+  </text>
+  
+  <!-- Cursor after whoami -->
+  <rect x="130" y="64" width="3" height="20" fill="#27ca3f">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="0.5s" repeatCount="2"/>
+  </rect>
+
+  <!-- Response appearing -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.5s" fill="freeze"/>
+    
+    <!-- King *error in big ASCII style with gothic flair -->
+    <text x="30" y="130" fill="#ff6b6b" font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="32" font-weight="700" filter="url(#glow)">
+      King *error
+    </text>
+  </g>
+
+  <!-- New prompt line -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="3s" fill="freeze"/>
+    
+    <text x="30" y="180" fill="#27ca3f" font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="18" font-weight="600">
+      $
+    </text>
+    
+    <!-- Second command -->
+    <text x="50" y="180" fill="#ffffff" font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="18">
+      cat ~/.profile
+    </text>
+  </g>
+
+  <!-- Bio appearing -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="4s" fill="freeze"/>
+    
+    <!-- Personal Bio centered like in the screenshot -->
+    <text x="500" y="240" text-anchor="middle" fill="#ffffff" font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="15">
+      <tspan x="500" dy="0" fill="#ff6b6b" font-style="italic">Autodidacte depuis plus de 4 ans, je trace ma voie sans cursus académique.</tspan>
+      <tspan x="500" dy="30" fill="#ffbd2e" font-style="italic">Mes projets privés grandissent loin des projecteurs, guidés par une passion</tspan>
+      <tspan x="500" dy="20" fill="#ffbd2e" font-style="italic">exigeante.</tspan>
+      <tspan x="500" dy="30" fill="#27ca3f" font-style="italic">L'apprentissage en solitaire a forgé un style propre.</tspan>
+      <tspan x="500" dy="30" fill="#1793d1" font-style="italic">Chaque ligne de code est une incantation vers la précision.</tspan>
+    </text>
+  </g>
+
+  <!-- Final prompt with cursor -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="5s" fill="freeze"/>
+    
+    <text x="30" y="450" fill="#27ca3f" font-family="SF Mono, Monaco, 'Cascadia Code', monospace" font-size="18" font-weight="600">
+      $
+    </text>
+    
+    <!-- Blinking cursor -->
+    <rect x="50" y="434" width="3" height="20" fill="#27ca3f">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Scanlines overlay -->
+  <rect width="1000" height="500" fill="url(#scanlines)" opacity="0.3"/>
+  
+  <!-- Subtle screen glow -->
+  <rect width="1000" height="500" rx="12" fill="none" stroke="rgba(39, 202, 63, 0.1)" stroke-width="1" filter="url(#glow)"/>
+</svg>

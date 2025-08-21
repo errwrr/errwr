@@ -1,48 +1,42 @@
-<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Développeur full stack polyvalent">
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Développeur full stack polyvalent">
   <defs>
     <style>
-      .mono { font: 600 22px/1.2 "SFMono-Regular", Consolas, "DejaVu Sans Mono", Menlo, monospace; }
+      /* Titre plus gros en monospace pour un effet terminal propre */
+      .mono { font: 700 30px/1.2 "SFMono-Regular", Consolas, "DejaVu Sans Mono", Menlo, monospace; }
     </style>
   </defs>
 
-  <!-- Fenêtre terminal -->
-  <rect x="80" y="18" width="740" height="104" rx="8" fill="#0f1316" stroke="#2a2f35" />
-  <rect x="80" y="18" width="740" height="22" rx="8" fill="#1c2227" />
-  <circle cx="96"  cy="29" r="4" fill="#ff5f56"/>
-  <circle cx="110" cy="29" r="4" fill="#ffbd2e"/>
-  <circle cx="124" cy="29" r="4" fill="#27c93f"/>
-
-  <!-- Ligne de saisie -->
-  <g transform="translate(100,62)">
-
-    <!-- Groupe qui se translate pour rester centré pendant la frappe -->
-    <!-- Char width = 12px / on cible ~ centre à 338 au départ, puis -6px par caractère -->
-    <g id="line" transform="translate(338,0)">
-      <animateTransform attributeName="transform" type="translate" calcMode="discrete" dur="5.16s" repeatCount="indefinite"
-        values="338;332;326;320;314;308;302;296;290;284;278;272;266;260;254;248;242;236;230;224;218;212;206;200;194;188;182;176;170;164;158;152;146;140;140;140;140;140;140;140;140;140;140;338" />
+  <!-- Ligne de saisie (sans cadre) -->
+  <g transform="translate(100,70)">
+    <!-- Groupe qui se translate pour garder la ligne centrée pendant la frappe -->
+    <!-- Pas par caractère = 16px ; centre local visé ≈ x=350 => base = 350 - step = 334 -->
+    <g id="line" transform="translate(334,0)">
+      <!-- 33 caractères tapés + 10 steps de pause + reset => 45 valeurs -->
+      <animateTransform attributeName="transform" type="translate" calcMode="discrete" dur="5.4s" repeatCount="indefinite"
+        values="334;326;318;310;302;294;286;278;270;262;254;246;238;230;222;214;206;198;190;182;174;166;158;150;142;134;126;118;110;102;94;86;78;70;70;70;70;70;70;70;70;70;70;334" />
 
       <!-- Prompt -->
       <text class="mono" x="0" y="0" fill="#23d18b">$</text>
 
-      <!-- Révélation du texte lettre par lettre (monospace ~12px/char) -->
-      <!-- Texte après "$ " -> offset x=24 -->
+      <!-- Révélation du texte (monospace, ~16px par caractère) -->
+      <!-- Texte après "$ " -> offset x=32 -->
       <clipPath id="reveal">
-        <rect x="24" y="-18" width="0" height="26">
-          <!-- 33 lettres -> largeur max 396 ; pause ; reset -->
-          <animate attributeName="width" calcMode="discrete" dur="5.16s" repeatCount="indefinite"
-            values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;396;396;396;396;396;396;396;396;396;0" />
+        <rect x="32" y="-20" width="0" height="30">
+          <!-- Largeur = n*16 jusqu’à 33 lettres -> 528 ; puis pause ; reset -->
+          <animate attributeName="width" calcMode="discrete" dur="5.4s" repeatCount="indefinite"
+            values="0;16;32;48;64;80;96;112;128;144;160;176;192;208;224;240;256;272;288;304;320;336;352;368;384;400;416;432;448;464;480;496;512;528;528;528;528;528;528;528;528;528;528;0" />
         </rect>
       </clipPath>
 
-      <!-- Texte saisi -->
-      <text class="mono" x="24" y="0" fill="#e6edf3" clip-path="url(#reveal)">Développeur full stack polyvalent</text>
+      <!-- Texte tapé -->
+      <text class="mono" x="32" y="0" fill="#e6edf3" clip-path="url(#reveal)">Développeur full stack polyvalent</text>
 
-      <!-- Curseur : avance case par case puis blink pendant la pause -->
-      <rect x="24" y="-16" width="10" height="24" rx="2" fill="#e6edf3">
-        <animate attributeName="x" calcMode="discrete" dur="5.16s" repeatCount="indefinite"
-          values="24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;420;420;420;420;420;420;420;420;420;420;24" />
-        <animate attributeName="opacity" calcMode="discrete" dur="5.16s" repeatCount="indefinite"
-          values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;0;1;0;1;0;1;1;1;1;1;1;1;1;1;1;1;1;1" />
+      <!-- Curseur : avance case par case puis clignote pendant la pause -->
+      <rect x="32" y="-20" width="12" height="30" rx="2" fill="#e6edf3">
+        <animate attributeName="x" calcMode="discrete" dur="5.4s" repeatCount="indefinite"
+          values="32;48;64;80;96;112;128;144;160;176;192;208;224;240;256;272;288;304;320;336;352;368;384;400;416;432;448;464;480;496;512;528;544;560;560;560;560;560;560;560;560;560;560;32" />
+        <animate attributeName="opacity" calcMode="discrete" dur="5.4s" repeatCount="indefinite"
+          values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;0;1;0;1;0;1;0;1" />
       </rect>
     </g>
   </g>

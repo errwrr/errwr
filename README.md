@@ -7,20 +7,6 @@
   <img src="assets/terminal.svg" alt="King *error Terminal" width="480" height="320"/>
 </div>
 
-<!-- Séparateur gothique -->
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"> -->
-
-<!-- Espace pour votre GIF -->
-<div style="margin: 80px 0;">
-  <img src="https://cdn.discordapp.com/attachments/1037074319538397277/1405909321333608468/Flying_angel.gif?ex=68a08a96&is=689f3916&hm=a9045930ad671baaeb2169b7e292c4f848e882474392c07125e64618a1935099&" alt="Gothic GIF" width="500" /> 
-  <p><em>welcome</em></p>
-</div>
-
-<!-- Séparateur -->
-<!--<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"> -->
-
-</div>
-
 ---
 
 <!-- Bandeau décoratif -->

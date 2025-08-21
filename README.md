@@ -68,18 +68,18 @@
 ---
 # 💼 Services professionnels
 
-### Créer votre boutique en ligne
+## Créer votre boutique en ligne
 - **Site de vente** — pour vendre vos produits 24h/24
 - **Catalogue produits** — photos, descriptions, prix automatiques
 - **Paiement sécurisé** — carte bancaire, PayPal, virement
 - **Gestion automatique** — stocks, commandes, factures
 
-### Être visible sur internet
+## Être visible sur internet
 - **Site professionnel** — qui donne confiance à vos clients
 - **Être trouvé sur Google** — apparaître quand on vous cherche
 - **Mesurer vos résultats** — savoir ce qui marche vraiment
 
-### Simplifier votre gestion quotidienne
+## Simplifier votre gestion quotidienne
 - **Fichier clients intelligent** — historique, préférences, relances
 - **Facturation automatique** — devis, factures, rappels de paiement
 - **Planning équipe** — congés, horaires, tâches du jour

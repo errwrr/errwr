@@ -7,20 +7,22 @@
       <stop offset="100%" stop-color="#7A0000"/>
     </linearGradient>
 
-    <!-- Glow blanc (néon) pour le contour animé -->
+    <!-- Glow blanc (néon) pour le contour -->
     <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
 
-    <!-- Bande de balayage (clip) qui traverse toute la bannière -->
+    <!-- Masque qui limite STRICTEMENT à l'intérieur de la bande -->
+    <mask id="barMask" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse">
+      <rect x="20" y="20" width="680" height="40" rx="14" fill="#fff"/>
+    </mask>
+
+    <!-- Bande de balayage (clip) -->
     <clipPath id="sweep" clipPathUnits="userSpaceOnUse">
-      <!-- bande 240px de large qui va de -240 à 720 sur toute la hauteur -->
       <rect x="-240" y="0" width="240" height="96">
-        <animate attributeName="x" values="-240;720" begin="slide.end+0.2s" dur="1.5s" fill="freeze"/>
+        <!-- Passe après l'entrée -->
+        <animate attributeName="x" values="-240;720" begin="enter.end+0.2s" dur="1.5s" repeatCount="1"/>
       </rect>
     </clipPath>
   </defs>
@@ -32,33 +34,51 @@
   <rect x="20" y="20" width="680" height="40" rx="14" fill="none"
         stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
 
-  <!-- Contour animé néon qui fait le tour -->
+  <!-- Contour néon animé -->
   <rect x="20" y="20" width="680" height="40" rx="14" fill="none"
         stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"
         pathLength="1000" stroke-dasharray="120 880" filter="url(#neon)">
     <animate attributeName="stroke-dashoffset" values="0;-1000" dur="6s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Groupe centré -->
-  <g transform="translate(360,48)">
-    <!-- Animation d'entrée appliquée au groupe texte (id=txt) -->
-    <g id="txt">
-      <animateTransform id="slide" attributeName="transform" type="translate"
+  <!-- Groupe centré, TOUT clipé à la bande -->
+  <g transform="translate(360,48)" mask="url(#barMask)">
+    <g id="txt" opacity="0">
+      <!-- 0) Pré-positionnement discret (évite le glitch GitHub) -->
+      <set id="pre" attributeName="transform" to="translate(-380 0)" begin="0.001s; reset.end+0.01s" />
+
+      <!-- 1) Entrée depuis la gauche (overshoot) -->
+      <animateTransform id="enter" attributeName="transform" type="translate"
                         values="-380 0; 12 0; 0 0"
                         keyTimes="0;0.8;1"
-                        dur="0.9s" begin="0s"
+                        dur="0.9s" begin="pre.end"
                         calcMode="spline"
                         keySplines="0.2 0.8 0.2 1; 0.2 0.8 0.2 1"
                         fill="freeze"/>
 
-      <!-- 1) Texte de base : TOUJOURS visible -->
+      <!-- Fade-in synchronisé avec l'entrée -->
+      <animate attributeName="opacity" values="0;1" dur="0.9s" begin="pre.end" fill="freeze"/>
+
+      <!-- 2) Balayage -->
+      <!-- (déjà défini dans le clipPath, déclenché par enter.end+0.2s) -->
+
+      <!-- 3) Attente de 10s puis sortie vers la droite -->
+      <animateTransform id="exit" attributeName="transform" type="translate"
+                        values="0 0; 380 0"
+                        begin="enter.end+10s" dur="0.9s" fill="freeze"/>
+
+      <!-- 4) Reset à gauche puis boucle -->
+      <animateTransform id="reset" attributeName="transform" type="translate"
+                        values="-380 0" begin="exit.end+0.5s" dur="0.01s" fill="freeze"/>
+
+      <!-- Texte de base -->
       <text x="0" y="-4" text-anchor="middle" dominant-baseline="middle"
             fill="#FFFFFF" font-size="24" font-weight="700"
             style="paint-order:stroke; stroke:#000; stroke-width:1; stroke-opacity:.18;">
         L’exigence du résultat
       </text>
 
-      <!-- 2) Texte en surimpression, découpé par la bande de balayage -->
+      <!-- Texte en surimpression pour le balayage -->
       <text x="0" y="-4" text-anchor="middle" dominant-baseline="middle"
             fill="#FFFFFF" font-size="24" font-weight="700" clip-path="url(#sweep)"
             style="opacity:.75;">

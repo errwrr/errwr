@@ -135,23 +135,6 @@
 5. **Formation & transfert** — documentation, prise en main équipes
 6. **Support long terme** — maintenance évolutive, monitoring
 
-## 🎯 Exemples de réalisations
-
-### TPE/Artisans
-- Site vitrine avec prise de RDV en ligne (coiffeur, garage...)
-- Boutique e-commerce avec gestion stocks automatisée
-- Application mobile de livraison locale
-
-### Startups/Scale-ups
-- Plateforme SaaS B2B avec facturation automatique
-- MVP mobile validé en 6 semaines
-- Architecture microservices pour forte montée en charge
-
-### Entreprises établies
-- Migration ERP legacy vers solution cloud moderne
-- Dashboard BI avec 15+ sources de données intégrées
-- API publique pour partenaires (10k+ appels/jour)
-
 ---
 
 ## ✅ Garanties qualité

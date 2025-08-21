@@ -3,9 +3,9 @@
 <div align="center">
   
 <!-- Titre animé -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=45&duration=3000&pause=1000&color=E5E7EB&background=00000000&center=true&vCenter=true&multiline=false&width=300&height=80&lines=King+*err%C3%B8r;King+*err%C3%B8r" alt="Typing Animation" />
-</h1>
+<div align="center">
+  <img src="assets/terminal-banner.svg" alt="King *error Terminal" width="480" height="320"/>
+</div>
 
 <!-- Séparateur gothique -->
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"> -->

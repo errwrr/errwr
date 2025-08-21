@@ -1,1 +1,69 @@
-<svg width="720" height="96" viewBox="0 0 720 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="L’exigence du résultat"> <defs> <!-- Dégradé rouge --> <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%"> <stop offset="0%" stop-color="#B80F0F"/> <stop offset="50%" stop-color="#E21E1E"/> <stop offset="100%" stop-color="#7A0000"/> </linearGradient> <!-- Glow blanc (néon) pour le contour animé --> <filter id="neon" x="-50%" y="-50%" width="200%" height="200%"> <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/> <feMerge> <feMergeNode in="b"/> <feMergeNode in="SourceGraphic"/> </feMerge> </filter> <!-- Bande de balayage (clip) --> <clipPath id="sweep" clipPathUnits="userSpaceOnUse"> <rect x="-240" y="0" width="240" height="96"> <animate attributeName="x" values="-240;720" begin="enter.end+0.2s" dur="1.5s"/> </rect> </clipPath> </defs> <!-- Ruban --> <rect x="20" y="20" width="680" height="40" rx="14" fill="url(#g)"/> <!-- Contour discret --> <rect x="20" y="20" width="680" height="40" rx="14" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/> <!-- Contour animé néon --> <rect x="20" y="20" width="680" height="40" rx="14" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" pathLength="1000" stroke-dasharray="120 880" filter="url(#neon)"> <animate attributeName="stroke-dashoffset" values="0;-1000" dur="6s" repeatCount="indefinite"/> </rect> <!-- Groupe centré --> <g transform="translate(360,48)"> <g id="txt"> <!-- 1) Entrée depuis la gauche --> <animateTransform id="enter" attributeName="transform" type="translate" values="-380 0; 12 0; 0 0" keyTimes="0;0.8;1" dur="0.9s" begin="0s" calcMode="spline" keySplines="0.2 0.8 0.2 1; 0.2 0.8 0.2 1" fill="freeze"/> <!-- 2) Attente de 10s puis sortie vers la droite --> <animateTransform id="exit" attributeName="transform" type="translate" values="0 0; 380 0" begin="enter.end+10s" dur="0.9s" fill="freeze"/> <!-- 3) Redémarrage en boucle --> <animateTransform attributeName="transform" type="translate" values="-380 0" begin="exit.end+0.5s" dur="0.01s" fill="freeze"/> <set attributeName="transform" to="-380 0" begin="exit.end+0.5s"/> <!-- Texte visible --> <text x="0" y="-4" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-size="24" font-weight="700" style="paint-order:stroke; stroke:#000; stroke-width:1; stroke-opacity:.18;"> L’exigence du résultat </text> <!-- Texte en surimpression pour le balayage --> <text x="0" y="-4" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-size="24" font-weight="700" clip-path="url(#sweep)" style="opacity:.75;"> L’exigence du résultat </text> </g> </g> </svg>
+<svg width="720" height="96" viewBox="0 0 720 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="L’exigence du résultat">
+  <defs>
+    <!-- Dégradé rouge -->
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B80F0F"/>
+      <stop offset="50%" stop-color="#E21E1E"/>
+      <stop offset="100%" stop-color="#7A0000"/>
+    </linearGradient>
+
+    <!-- Glow blanc (néon) pour le contour animé -->
+    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Bande de balayage (clip) qui traverse toute la bannière -->
+    <clipPath id="sweep" clipPathUnits="userSpaceOnUse">
+      <!-- bande 240px de large qui va de -240 à 720 sur toute la hauteur -->
+      <rect x="-240" y="0" width="240" height="96">
+        <animate attributeName="x" values="-240;720" begin="slide.end+0.2s" dur="1.5s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Ruban -->
+  <rect x="20" y="20" width="680" height="40" rx="14" fill="url(#g)"/>
+
+  <!-- Contour discret -->
+  <rect x="20" y="20" width="680" height="40" rx="14" fill="none"
+        stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
+
+  <!-- Contour animé néon qui fait le tour -->
+  <rect x="20" y="20" width="680" height="40" rx="14" fill="none"
+        stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"
+        pathLength="1000" stroke-dasharray="120 880" filter="url(#neon)">
+    <animate attributeName="stroke-dashoffset" values="0;-1000" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Groupe centré -->
+  <g transform="translate(360,48)">
+    <!-- Animation d'entrée appliquée au groupe texte (id=txt) -->
+    <g id="txt">
+      <animateTransform id="slide" attributeName="transform" type="translate"
+                        values="-380 0; 12 0; 0 0"
+                        keyTimes="0;0.8;1"
+                        dur="0.9s" begin="0s"
+                        calcMode="spline"
+                        keySplines="0.2 0.8 0.2 1; 0.2 0.8 0.2 1"
+                        fill="freeze"/>
+
+      <!-- 1) Texte de base : TOUJOURS visible -->
+      <text x="0" y="-4" text-anchor="middle" dominant-baseline="middle"
+            fill="#FFFFFF" font-size="24" font-weight="700"
+            style="paint-order:stroke; stroke:#000; stroke-width:1; stroke-opacity:.18;">
+        L’exigence du résultat
+      </text>
+
+      <!-- 2) Texte en surimpression, découpé par la bande de balayage -->
+      <text x="0" y="-4" text-anchor="middle" dominant-baseline="middle"
+            fill="#FFFFFF" font-size="24" font-weight="700" clip-path="url(#sweep)"
+            style="opacity:.75;">
+        L’exigence du résultat
+      </text>
+    </g>
+  </g>
+</svg>

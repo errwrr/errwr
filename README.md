@@ -25,7 +25,7 @@
 
 <!-- Bandeau décoratif -->
 <p align="center">
-  <img src="assets/banner2.svg" alt="L’exigence du résultat" width="720" height="96">
+  <img src="assets/banner3.svg" alt="L’exigence du résultat" width="720" height="96">
 </p>
 
 

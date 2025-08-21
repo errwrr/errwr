@@ -43,11 +43,14 @@
 
 *De l'idée à la réalisation : **TOUT est possible** !*
 
-  <p style="margin:0; font-size:30px; line-height:1.2; font-weight:700;">
-    <img src="assets/emote/crown-left.png" alt="emoji" height="40" style="vertical-align:middle; margin-right:8px;">
-    « Tout ce qui est imaginable en numérique, je le rends réel. »
-    <img src="assets/emote/crown-right.png" alt="emoji" height="40" style="vertical-align:middle; margin-left:8px;">
-  </p>
+  <h3 style="margin:0; line-height:1.15;">
+    <img src="assets/emote/crown-left.png" alt="emoji" height="38" style="vertical-align:middle; margin-right:8px;">
+    <span style="font-size:32px; font-weight:800;">
+      « Tout ce qui est imaginable en numérique, je le rends réel. »
+    </span>
+    <img src="assets/emote/crown-right.png" alt="emoji" height="38" style="vertical-align:middle; margin-left:8px;">
+  </h3>
+
 
 <br/>
 

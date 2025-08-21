@@ -67,7 +67,7 @@
 
 ---
 <div align="center">
-      <img src="assets/service.svg" alt="King *error Terminal"
+      <img src="assets/service.svg"
 </div>
 
 ## ⭐ Créer votre boutique en ligne
@@ -87,8 +87,10 @@
 - **Planning équipe** — congés, horaires, tâches du jour
 - **Tableaux de bord** — voir vos ventes, vos performances d'un coup d'œil
 
+<br/>
+
 <div align="center">
-      <img src="assets/creations.svg" alt="King *error Terminal"
+      <img src="assets/creations.svg"
 </div>
 
 ## ⭐ Jeux et communautés
@@ -103,7 +105,11 @@
 - **Logiciels Windows/Mac** — outils spécifiques à votre activité
 - **Espaces privés** — zones réservées clients, gestion interne
 
-## 🔧 Comment je peux vous aider ?
+<br/>
+
+<div align="center">
+      <img src="assets/aide.svg"
+</div>
 
 ## ⭐ Créer rapidement
 - **Analyser vos besoins** — comprendre ce qui vous faut
@@ -119,7 +125,11 @@
 - **Réparer et améliorer** — corriger les bugs, optimiser les performances
 - **Support continu** — je reste disponible après la livraison
 
-## 📋 Comment ça se passe concrètement
+<br/>
+
+<div align="center">
+      <img src="assets/concretement.svg"
+</div>
 
 1. **On se parle** — vous m'expliquez vos besoins, vos objectifs
 2. **Je vous propose** — solutions adaptées avec prix transparent
@@ -128,39 +138,17 @@
 5. **Je vous forme** — vous apprenez à utiliser vos nouveaux outils
 6. **Je vous accompagne** — support et améliorations si besoin
 
----
+<br/>
 
-## ✅ Ce que vous obtenez
+<div align="center">
+      <img src="assets/obtenez.svg"
+</div>
 
-**🔒 Sécurisé et légal**
-- Protection contre les pirates
-- Respect de la vie privée (RGPD)
-- Sauvegarde automatique de vos données
-- Paiements sécurisés
-
-**📦 Livraison complète**
-- Accès total à votre création (vous êtes propriétaire)
-- Guide simple pour utiliser et modifier
-- Formation de votre équipe incluse
-- Support technique après livraison
-
-**🎯 Résultats garantis**
-- Ça marche comme promis
-- Projet rapide et fiable
-- Support réactif si problème
-- Corrections gratuites le premier mois
+- *🔒 Sécurisé et légal*
+- *📦 Livraison complète*
+- *🎯 Résultats garantis*
 
 *Développement légal et conforme • Code source fourni • Garantie qualité*
-
-
-<div style="text-align: center; margin: 30px 0; padding: 25px; background: linear-gradient(135deg, rgba(255, 107, 107, 0.1) 0%, rgba(255, 107, 107, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(255, 107, 107, 0.2);">
-
-### **Votre Projet Sur Mesure**
-
-**Vous avez une idée de projet technique ? Parlons-en !**  
-*Analyse gratuite de faisabilité et estimation personnalisée*
-
-**De la conception au déploiement, je m'occupe de tout**
 
 </div>
 

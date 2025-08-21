@@ -1,51 +1,41 @@
 <svg width="720" height="96" viewBox="0 0 720 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="L’exigence du résultat">
   <defs>
-    <!-- Dégradé principal (shimmer horizontal) -->
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%" gradientUnits="userSpaceOnUse">
+    <!-- Dégradé rouge (statique) -->
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#B80F0F"/>
-      <stop offset="40%" stop-color="#E21E1E"/>
-      <stop offset="60%" stop-color="#FF3B3B"/>
+      <stop offset="50%" stop-color="#E21E1E"/>
       <stop offset="100%" stop-color="#7A0000"/>
-      <animateTransform attributeName="gradientTransform" type="translate"
-                        values="-0.15 0; 0.15 0; -0.15 0"
-                        dur="7s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <!-- Ombre portée douce -->
+    <!-- Ombre douce (statique) -->
     <filter id="shadow" x="-20%" y="-50%" width="140%" height="200%">
       <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#8B0000" flood-opacity=".35"/>
     </filter>
-
-    <!-- Reflet (sheen) étroit et discret -->
-    <linearGradient id="sheen" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
-    </linearGradient>
   </defs>
 
   <!-- Ruban -->
   <g filter="url(#shadow)">
     <rect x="20" y="20" width="680" height="40" rx="14" fill="url(#g)"/>
-    <!-- Reflet mobile -->
-    <rect x="20" y="22" width="180" height="16" fill="url(#sheen)" opacity="0.6">
-      <animate attributeName="x" values="-200; 740" dur="4.8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.6;0" dur="4.8s" repeatCount="indefinite"/>
-    </rect>
   </g>
 
-  <!-- Texte -->
-  <g>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+  <!-- Groupe centré (texte + soulignement) -->
+  <!-- On se place au centre horizontal (360) et vertical (48) -->
+  <g transform="translate(360,44)">
+    <!-- Texte centré avec légère oscillation type "feuille" -->
+    <text x="0" y="0" text-anchor="middle" dominant-baseline="middle"
           fill="#FFFFFF" font-size="24" font-weight="700"
           style="paint-order:stroke; stroke:#000; stroke-width:1; stroke-opacity:.18;">
       L’exigence du résultat
-      <!-- micro-pulsation d'opacité (très légère) -->
-      <animate attributeName="opacity" values="1;0.96;1" dur="2.8s" repeatCount="indefinite"/>
+      <!-- oscillation douce -->
+      <animateTransform attributeName="transform" attributeType="XML"
+                        type="rotate" values="-1;1;-1" dur="6s"
+                        repeatCount="indefinite"/>
     </text>
 
-    <!-- Soulignement animé fin -->
-    <line x1="220" x2="500" y1="64" y2="64" stroke="#FFFFFF" stroke-opacity="0.6" stroke-width="2"
+    <!-- Soulignement centré sous le texte -->
+    <!-- Ligne de 340px de long, centrée (de -170 à 170) à y=16 sous le centre -->
+    <line x1="-170" x2="170" y1="16" y2="16"
+          stroke="#FFFFFF" stroke-opacity="0.6" stroke-width="2"
           stroke-linecap="round" stroke-dasharray="60 280">
       <animate attributeName="stroke-dashoffset" values="0;340" dur="6s" repeatCount="indefinite"/>
       <animate attributeName="stroke-opacity" values="0.35;0.6;0.35" dur="6s" repeatCount="indefinite"/>

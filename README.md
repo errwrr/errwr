@@ -140,14 +140,6 @@
 
 <br/>
 
-<div align="center">
-      <img src="assets/obtenez.svg"
-</div>
-
-- *🔒 Sécurisé et légal*
-- *📦 Livraison complète*
-- *🎯 Résultats garantis*
-
 *Développement légal et conforme • Code source fourni • Garantie qualité*
 
 </div>

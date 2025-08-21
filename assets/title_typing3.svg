@@ -38,7 +38,7 @@
       </clipPath>
 
       <!-- Texte saisi -->
-      <text class="mono" x="24" y="0" fill="#e6edf3" clip-path="url(#reveal)">Développeur full stack polyvalant</text>
+      <text class="mono" x="24" y="0" fill="#e6edf3" clip-path="url(#reveal)">Développeur full stack polyvalent</text>
 
       <!-- Curseur (local au groupe 'line') : avance case par case, puis blink pendant la pause -->
       <rect x="24" y="-16" width="10" height="24" rx="2" fill="#e6edf3">

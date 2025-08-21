@@ -68,97 +68,85 @@
 ---
 # 💼 Services professionnels
 
-## 🎯 Solutions métier
-### E-commerce & vente en ligne
-- **Boutiques en ligne** — Shopify, WooCommerce, solutions sur-mesure
-- **Marketplaces** — intégration Amazon, eBay, Cdiscount
-- **Paiements sécurisés** — Stripe, PayPal, solutions bancaires
-- **Gestion stocks** — synchronisation multi-canaux, alertes automatiques
+### Créer votre boutique en ligne
+- **Site de vente** — pour vendre vos produits 24h/24
+- **Catalogue produits** — photos, descriptions, prix automatiques
+- **Paiement sécurisé** — carte bancaire, PayPal, virement
+- **Gestion automatique** — stocks, commandes, factures
 
-### Présence digitale & marketing
-- **Sites vitrine** — responsive, SEO optimisé, performant
-- **SEO local** — référencement Google My Business, fiches locales
-- **Automatisation marketing** — emailing, lead nurturing, CRM
-- **Analytics** — suivi performances, reporting personnalisé
+### Être visible sur internet
+- **Site professionnel** — qui donne confiance à vos clients
+- **Être trouvé sur Google** — apparaître quand on vous cherche
+- **Mesurer vos résultats** — savoir ce qui marche vraiment
 
-### Gestion d'entreprise
-- **CRM/ERP léger** — gestion clients, facturation, stocks
-- **Outils RH** — planning, congés, gestion des équipes
-- **Dashboards métier** — KPIs temps réel, aide à la décision
-- **Automatisation** — workflows, notifications, tâches répétitives
+### Simplifier votre gestion quotidienne
+- **Fichier clients intelligent** — historique, préférences, relances
+- **Facturation automatique** — devis, factures, rappels de paiement
+- **Planning équipe** — congés, horaires, tâches du jour
+- **Tableaux de bord** — voir vos ventes, vos performances d'un coup d'œil
 
-## 🚀 Développement technique
+## 🎮 Créations spécialisées
 
-### Gaming & communautés
-- **Minecraft** — plugins & serveurs sur-mesure
-- **FiveM** — scripts & serveurs sur-mesure
-- **Discord** — bots personnalisés & modération
-- **Infrastructure gaming** — hébergement, anti-cheat, outils d'admin
+### Jeux et communautés
+- **Serveurs Minecraft** — mondes personnalisés pour votre communauté
+- **Serveurs FiveM** — votre serveur GTA roleplay unique
+- **Bots Discord** — modération et fonctions sur-mesure
+- **Hébergement gaming** — serveurs rapides et sécurisés
 
 ### Applications sur-mesure
-- **Web modernes** — React, Vue.js, Next.js, PWA
-- **Mobile natives** — iOS (Swift) & Android (Kotlin/Java)
-- **Desktop multiplateforme** — Electron, .NET, applications natives
-- **SaaS & plateformes** — architecture scalable, multi-tenant
+- **Sites internet** — vitrine, blog, boutique, sur-mesure
+- **Apps mobile** — iPhone et Android pour vos clients
+- **Logiciels Windows/Mac** — outils spécifiques à votre activité
+- **Espaces privés** — zones réservées clients, gestion interne
 
-### Intégrations & APIs
-- **APIs REST/GraphQL** — conception & développement
-- **Intégrations tierces** — CRM, ERP, outils métier existants
-- **Microservices** — architecture modulaire, containerisation
-- **Cloud & DevOps** — AWS, Azure, déploiement automatisé
+## 🔧 Comment je peux vous aider ?
 
-## 🎯 Niveaux d'intervention
+### ⚡ Créer rapidement
+- **Analyser vos besoins** — comprendre ce qui vous faut
+- **Version test** — pour valider votre idée
+- **Auditer l'existant** — voir ce qui peut être amélioré
+- **Solutions prêtes à l'emploi** — configurations standards adaptées
+- **Former vos équipes** — utiliser au mieux vos nouveaux outils
+- **Mise en ligne express** — opérationnel en quelques semaines
 
-### 💡 Conseil & audit
-- **Audit technique** — code existant, performances, sécurité
-- **Conseil CTO** — architecture, choix technologiques, roadmap
-- **Analyse besoins** — spécifications fonctionnelles détaillées
-- **Formation équipes** — montée en compétences, bonnes pratiques
+### 🔧 Améliorer et maintenir
+- **Moderniser votre site** — plus rapide, plus beau, plus efficace
+- **Ajouter des fonctions** — nouvelles possibilités selon vos besoins
+- **Réparer et améliorer** — corriger les bugs, optimiser les performances
+- **Support continu** — je reste disponible après la livraison
 
-### ⚡ Développement rapide
-- **MVP & prototypes** — validation concept, time-to-market réduit
-- **Proof of concept** — faisabilité technique, démonstration
-- **Solutions clés en main** — packages pré-configurés, déploiement express
+## 📋 Comment ça se passe concrètement
 
-### 🔧 Maintenance & évolution
-- **Migration systèmes** — modernisation d'applications legacy
-- **Refactoring code** — amélioration performances, maintenabilité
-- **Évolutions fonctionnelles** — nouvelles features, optimisations
-- **Support technique** — monitoring, debugging, corrections
-
-## 📋 Processus de travail
-
-1. **Analyse approfondie** — audit existant, besoins métier & techniques
-2. **Devis transparent** — détail des prestations, planning, garanties
-3. **Développement agile** — livraisons itératives, feedback continu
-4. **Tests & validation** — QA rigoureuse, recette utilisateur
-5. **Formation & transfert** — documentation, prise en main équipes
-6. **Support long terme** — maintenance évolutive, monitoring
+1. **On se parle** — vous m'expliquez vos besoins, vos objectifs
+2. **Je vous propose** — solutions adaptées avec prix transparent
+3. **Je développe** — création étape par étape, vous validez
+4. **On teste ensemble** — vérification que tout fonctionne parfaitement
+5. **Je vous forme** — vous apprenez à utiliser vos nouveaux outils
+6. **Je vous accompagne** — support et améliorations si besoin
 
 ---
 
-## ✅ Garanties qualité
+## ✅ Ce que vous obtenez
 
-**🔒 Sécurité & conformité**
-- Code audité selon standards OWASP
-- Conformité RGPD native
-- Chiffrement des données sensibles
-- Sauvegdes automatisées
+**🔒 Sécurisé et légal**
+- Protection contre les pirates
+- Respect de la vie privée (RGPD)
+- Sauvegarde automatique de vos données
+- Paiements sécurisés
 
-**📖 Livrables complets**
-- Code source documenté livré
-- Architecture technique détaillée
-- Guide d'utilisation & maintenance
-- Formation des équipes incluse
+**📦 Livraison complète**
+- Accès total à votre création (vous êtes propriétaire)
+- Guide simple pour utiliser et modifier
+- Formation de votre équipe incluse
+- Support technique après livraison
 
-**🎯 Engagement résultats**
-- Tests automatisés (>80% couverture)
-- Performances garanties (SLA définis)
-- Support réactif post-livraison
-- Évolutions gratuites 30 jours
+**🎯 Résultats garantis**
+- Ça marche comme promis
+- Projet rapide et fiable
+- Support réactif si problème
+- Corrections gratuites le premier mois
 
-*Devis gratuit • Paiement échelonné • Satisfaction garantie*
-
+*Développement légal et conforme • Code source fourni • Garantie qualité*
 
 
 <div style="text-align: center; margin: 30px 0; padding: 25px; background: linear-gradient(135deg, rgba(255, 107, 107, 0.1) 0%, rgba(255, 107, 107, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(255, 107, 107, 0.2);">

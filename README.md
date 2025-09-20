@@ -152,7 +152,7 @@
 
 <div align="center">
 
-##  *Contact & Réseaux* 
+###  *Contact & Réseaux* 
 
 ### *Collaborons ensemble sur vos projets les plus ambitieux*
 
